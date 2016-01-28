@@ -39,11 +39,11 @@
         <mark key="." line="10" column="35" />
         <mark key="^" line="10" column="35" />
       </file>
-      <file name="/Volumes/workplace/ccrgate/src/PQCCRGatewayService/tst/com/amazon/pqccrgateway/activity/SubmitDefectReversalsActivityTest.java" timestamp="1453923226118">
-        <mark key="[" line="98" column="42" />
-        <mark key="]" line="101" column="68" />
-        <mark key="." line="101" column="68" />
-        <mark key="^" line="101" column="68" />
+      <file name="/Volumes/workplace/ccrgate/src/PQCCRGatewayService/tst/com/amazon/pqccrgateway/activity/SubmitDefectReversalsActivityTest.java" timestamp="1453939448915">
+        <mark key="[" line="115" column="56" />
+        <mark key="]" line="115" column="65" />
+        <mark key="^" line="115" column="65" />
+        <mark key="." line="115" column="65" />
       </file>
       <file name="/Volumes/workplace/ccrgate/src/ProductQualityDefectsLib/src/com/amazon/productquality/common/defect/model/v1/Defect.java" timestamp="1453924094046" />
       <file name="$USER_HOME$/workplace/pq-action-wf/src/PQActionWorkflowInterface/Config" timestamp="1452066211002">
@@ -807,10 +807,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>For</text>
+        <text>argCap2.getValue().</text>
       </register>
       <register name="-" type="4">
-        <text>For</text>
+        <text>argCap2.getValue().</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
@@ -819,28 +819,28 @@
         <text encoding="base64">ICAgICAgICB2YWwgdGVzdFJlcXVlc3QxID0gVGVzdERhdGFDcmVhdGlvblV0aWxzLmdldE5vblRyYW5zZmVyUmV2ZXJzYWxSZXF1ZXN0Rm9yKCk7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>For</text>
+        <text>argCap2.getValue().</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZGVmZWN0SWQyID0gZGVmZWN0SWQxCg==</text>
+        <text encoding="base64">ICAgICAgICBBcmd1bWVudENhcHRvcjxBdWRpdFJlY29yZD4gYXJnQ2FwMiA9IEFyZ3VtZW50Q2FwdG9yLmZvckNsYXNzKEF1ZGl0UmVjb3JkLmNsYXNzKTsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZGVmZWN0SWQxID0gRGVmZWN0SGVscGVyLmdldElkZW50aWZpZXJGcm9tKGRlZmVjdCk7Cg==</text>
+      <register name="3" type="4">
+        <text>atLeast(1)</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZGVmZWN0ID0gCg==</text>
+        <text encoding="base64">ICAgICAgICBpbk9yZGVyLnZlcmlmeShtb2NrQXVkaXREYW8sIGF0TGVhc3QoMSkpLmNyZWF0ZShhcmdDYXAyLmNhcHR1cmUoKSk7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>capture</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcGsgPSBVVUlELmZyb21TdHJpbmcodXVpZEdlbmVyYXRvci5nZW5lcmF0ZSgpKTsK</text>
+      <register name="6" type="4">
+        <text>.capture</text>
       </register>
       <register name="7" type="4">
-        <text>pk</text>
+        <text>.capture</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -850,8 +850,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcGsgPSA7Cg==</text>
+      <register name="8" type="4">
+        <text>capture</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -867,7 +867,7 @@
         </keys>
       </register>
       <register name="9" type="4">
-        <text>)req</text>
+        <text>val</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

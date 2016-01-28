@@ -11,12 +11,12 @@
         <mark key="^" line="169" column="45" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="/Volumes/workplace/ccrgate/src/PQCCRGatewayService/tst/com/amazon/pqccrgateway/activity/GetRecordsForChartActivityTest.java" timestamp="1453449225465">
-        <mark key="'" line="396" column="27" />
-        <mark key="[" line="391" column="26" />
-        <mark key="]" line="391" column="27" />
-        <mark key="." line="391" column="27" />
-        <mark key="^" line="391" column="27" />
+      <file name="/Volumes/workplace/ccrgate/src/PQCCRGatewayService/tst/com/amazon/pqccrgateway/activity/GetRecordsForChartActivityTest.java" timestamp="1454024588338">
+        <mark key="'" line="448" column="27" />
+        <mark key="[" line="130" column="45" />
+        <mark key="]" line="130" column="48" />
+        <mark key="^" line="130" column="48" />
+        <mark key="." line="130" column="48" />
       </file>
       <file name="/Volumes/workplace/pq-defects/src/ProductQualityDefectsLib/tst/com/amazon/productquality/defects/dao/jdbc/RDSJdbcDefectDaoIntegrationTest.java" timestamp="1449723748932">
         <mark key="[" line="25" column="13" />
@@ -130,12 +130,12 @@
         <mark key="." line="59" column="22" />
         <mark key="^" line="59" column="22" />
       </file>
-      <file name="/Volumes/workplace/ccrgate/src/PQCCRGatewayService/src/com/amazon/pqccrgateway/activity/getRecordsForChartActivity.java" timestamp="1453526231762">
-        <mark key="'" line="20" column="18" />
-        <mark key="[" line="75" column="13" />
-        <mark key="]" line="75" column="16" />
-        <mark key="." line="75" column="16" />
-        <mark key="^" line="75" column="16" />
+      <file name="/Volumes/workplace/ccrgate/src/PQCCRGatewayService/src/com/amazon/pqccrgateway/activity/getRecordsForChartActivity.java" timestamp="1454024908298">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="257" column="0" />
+        <mark key="]" line="257" column="0" />
+        <mark key="^" line="293" column="63" />
+        <mark key="." line="257" column="0" />
       </file>
       <file name="/Volumes/workplace/pq-defects/src/ProductQualityDefectsLib/src/com/amazon/productquality/defects/dao/jdbc/OracleMappingHelper.java" timestamp="1452905454342">
         <mark key="[" line="63" column="22" />
@@ -709,8 +709,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="157" column="4" filename="/Volumes/workplace/ccrgate/src/PQCCRGatewayService/src/com/amazon/pqccrgateway/activity/getRecordsForTableActivity.java" />
-      <jump line="19" column="44" filename="/Volumes/workplace/ccrgate/src/PQCCRGatewayService/src/com/amazon/pqccrgateway/backend/DefectDaoAdapter.java" />
       <jump line="45" column="8" filename="/Volumes/workplace/ccrgate/src/PQCCRGatewayService/src/com/amazon/pqccrgateway/backend/DefectDaoAdapter.java" />
       <jump line="141" column="18" filename="/Volumes/workplace/ccrgate/src/ProductQualityDefectsLib/src/com/amazon/productquality/defects/dao/jdbc/OracleMappingHelper.java" />
       <jump line="50" column="8" filename="/Volumes/workplace/ccrgate/src/PQCCRGatewayService/tst/com/amazon/pqccrgateway/backend/DefectDaoAdapterTest.java" />
@@ -809,43 +807,45 @@
       <jump line="17" column="24" filename="/Volumes/workplace/ccrgate/src/PQCCRGatewayService/src/com/amazon/pqccrgateway/activity/getRecordsForTimelineActivity.java" />
       <jump line="37" column="47" filename="/Volumes/workplace/ccrgate/src/PQCCRGatewayService/src/com/amazon/pqccrgateway/activity/getRecordsForTimelineActivity.java" />
       <jump line="75" column="9" filename="/Volumes/workplace/ccrgate/src/PQCCRGatewayService/src/com/amazon/pqccrgateway/activity/getRecordsForTimelineActivity.java" />
+      <jump line="258" column="29" filename="/Volumes/workplace/ccrgate/src/PQCCRGatewayService/src/com/amazon/pqccrgateway/activity/getRecordsForChartActivity.java" />
+      <jump line="17" column="0" filename="/Volumes/workplace/ccrgate/src/PQCCRGatewayService/src/com/amazon/pqccrgateway/activity/getRecordsForChartActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>2500M</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICByZXR1cm4gZmlyc3ROb25OdWxsKGlucHV0LmdldEJyYW5kTmFtZSgpLCAiIik7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>2500M</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>log</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdGVzdFJlcXVlc3QxID0gVGVzdERhdGFDcmVhdGlvblV0aWxzLmdldE5vblRyYW5zZmVyUmV2ZXJzYWxSZXF1ZXN0Rm9yKCk7Cg==</text>
+        <text encoding="base64">CiAgICBAVGVzdAogICAgcHVibGljIHZvaWQgY291bnRpbmdfYnJhbmRfc2hvdWxkX2hhbmRsZV9ibGFua19icmFuZE5hbWUoKSB7CiAgICAgICAgd2hlbihtb2NrRGVmZWN0RGFvQWRhcHRlci50b1RhYmxlUmVjb3JkcyhhbnkoQ29sbGVjdGlvbi5jbGFzcykpKQogICAgICAgICAgICAgICAgLnRoZW5SZXR1cm4oTGlzdHMuYXNMaXN0KGNyZWF0ZUFUYWJsZVJlY29yZCgiQVNJTjEiLCAxTCwgbnVsbCksCiAgICAgICAgICAgICAgICAgICAgICAgIG5ldyBUYWJsZVJlY29yZFtde30pKTsKCiAgICAgICAgQ2hhcnRSZWNvcmRzUmVzdWx0IHJlc3VsdCA9IGFjdC5nZXRDaGFydFJlY29yZHMoMUwsCiAgICAgICAgICAgICAgICBuZXcgRGF0ZSgpLAogICAgICAgICAgICAgICAgbmV3IERhdGUoKSwKICAgICAgICAgICAgICAgIDIsCiAgICAgICAgICAgICAgICBuZXcgQXJyYXlMaXN0PExvbmc+KCksCiAgICAgICAgICAgICAgICBuZXcgQXJyYXlMaXN0PExvbmc+KCksCiAgICAgICAgICAgICAgICBuZXcgQXJyYXlMaXN0PFN0cmluZz4oKSwKICAgICAgICAgICAgICAgICJhbGwiLAogICAgICAgICAgICAgICAgImFsbCIpOwoKICAgICAgICBhc3NlcnRFcXVhbHMoImdsTWFpbiIsIHJlc3VsdC5nZXRHbENoYXJ0KCkuZ2V0TWFpbkNoYXJ0KCkuZ2V0SWQoKSk7CiAgICAgICAgYXNzZXJ0RXF1YWxzKCJicmFuZE1haW4iLCByZXN1bHQuZ2V0QnJhbmRDaGFydCgpLmdldE1haW5DaGFydCgpLmdldElkKCkpOwogICAgICAgIGFzc2VydEVxdWFscygiRGVmZWN0cyBieSBHTHMiLCByZXN1bHQuZ2V0R2xDaGFydCgpLmdldE1haW5DaGFydCgpLmdldE5hbWUoKSk7CiAgICAgICAgYXNzZXJ0RXF1YWxzKCJEZWZlY3RzIGJ5IEJyYW5kcyIsIHJlc3VsdC5nZXRCcmFuZENoYXJ0KCkuZ2V0TWFpbkNoYXJ0KCkuZ2V0TmFtZSgpKTsKICAgICAgICBhc3NlcnRFcXVhbHMoMSwgcmVzdWx0LmdldEJyYW5kQ2hhcnQoKS5nZXRNYWluQ2hhcnQoKS5nZXREYXRhKCkuc2l6ZSgpKTsKICAgICAgICBhc3NlcnRFcXVhbHMoMSwgcmVzdWx0LmdldEJyYW5kQ2hhcnQoKS5nZXREcmlsbGRvd25DaGFydHMoKS5zaXplKCkpOwogICAgICAgIGFzc2VydEVxdWFscygxLCByZXN1bHQuZ2V0R2xDaGFydCgpLmdldE1haW5DaGFydCgpLmdldERhdGEoKS5zaXplKCkpOwogICAgICAgIGFzc2VydEVxdWFscygxLCByZXN1bHQuZ2V0R2xDaGFydCgpLmdldERyaWxsZG93bkNoYXJ0cygpLnNpemUoKSk7CiAgICB9Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>2500M</text>
+      <register name="1" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICByZXR1cm4gZmlyc3ROb25OdWxsKGlucHV0LmdldEJyYW5kTmFtZSgpLCAiIik7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>argCap2.getValue().</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgIGxvZy5pbmZvKHMpOwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBBcmd1bWVudENhcHRvcjxBdWRpdFJlY29yZD4gYXJnQ2FwMiA9IEFyZ3VtZW50Q2FwdG9yLmZvckNsYXNzKEF1ZGl0UmVjb3JkLmNsYXNzKTsK</text>
+      <register name="3" type="4">
+        <text />
       </register>
       <register name="4" type="4">
-        <text>atLeast(1)</text>
+        <text>gl</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbk9yZGVyLnZlcmlmeShtb2NrQXVkaXREYW8sIGF0TGVhc3QoMSkpLmNyZWF0ZShhcmdDYXAyLmNhcHR1cmUoKSk7Cg==</text>
+      <register name="5" type="4">
+        <text>blank</text>
       </register>
       <register name="6" type="4">
-        <text>capture</text>
+        <text>Collection.class</text>
       </register>
       <register name="7" type="4">
-        <text>.capture</text>
+        <text>Collection.class</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -856,7 +856,7 @@
         </keys>
       </register>
       <register name="8" type="4">
-        <text>.capture</text>
+        <text>blank</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -872,7 +872,7 @@
         </keys>
       </register>
       <register name="9" type="4">
-        <text>capture</text>
+        <text>null</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

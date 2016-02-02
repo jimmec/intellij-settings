@@ -637,11 +637,12 @@
       <file name="/Volumes/workplace/ccrgate/src/PQCCRGatewayService/tst/com/amazon/pqccrgateway/spi/PQActionWorkflowServiceProxyTests.java" timestamp="1453501268085">
         <mark key="[" line="28" column="46" />
       </file>
-      <file name="$USER_HOME$/workplace/pq-defects/src/ProductQualityDefectsLib/src/com/amazon/productquality/common/defect/model/v2/DefectV2.java" timestamp="1454377711362">
+      <file name="$USER_HOME$/workplace/pq-defects/src/ProductQualityDefectsLib/src/com/amazon/productquality/common/defect/model/v2/DefectV2.java" timestamp="1454381393456">
         <mark key="'" line="50" column="18" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
+        <mark key="[" line="67" column="34" />
+        <mark key="]" line="67" column="33" />
+        <mark key="." line="67" column="33" />
+        <mark key="^" line="67" column="33" />
       </file>
       <file name="/Volumes/workplace/ccrgate/src/PQCCRGatewayService/spring-configuration/integration-testing-config.xml" timestamp="1453512059166">
         <mark key="'" line="132" column="0" />

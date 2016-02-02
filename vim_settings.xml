@@ -637,11 +637,11 @@
       <file name="/Volumes/workplace/ccrgate/src/PQCCRGatewayService/tst/com/amazon/pqccrgateway/spi/PQActionWorkflowServiceProxyTests.java" timestamp="1453501268085">
         <mark key="[" line="28" column="46" />
       </file>
-      <file name="$USER_HOME$/workplace/pq-defects/src/ProductQualityDefectsLib/src/com/amazon/productquality/common/defect/model/v2/DefectV2.java" timestamp="1454376616161">
-        <mark key="[" line="56" column="42" />
-        <mark key="]" line="56" column="55" />
-        <mark key="." line="56" column="55" />
-        <mark key="^" line="56" column="55" />
+      <file name="$USER_HOME$/workplace/pq-defects/src/ProductQualityDefectsLib/src/com/amazon/productquality/common/defect/model/v2/DefectV2.java" timestamp="1454377711362">
+        <mark key="'" line="50" column="18" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
       </file>
       <file name="/Volumes/workplace/ccrgate/src/PQCCRGatewayService/spring-configuration/integration-testing-config.xml" timestamp="1453512059166">
         <mark key="'" line="132" column="0" />
@@ -719,8 +719,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="8" filename="/Volumes/workplace/ccrgate/src/PQCCRGatewayService/tst/com/amazon/pqccrgateway/backend/DefectDaoAdapterTest.java" />
-      <jump line="40" column="68" filename="/Volumes/workplace/ccrgate/src/PQCCRGatewayService/tst/com/amazon/pqccrgateway/backend/DefectDaoAdapterTest.java" />
       <jump line="53" column="35" filename="/Volumes/workplace/ccrgate/src/PQCCRGatewayService/tst/com/amazon/pqccrgateway/backend/DefectDaoAdapterTest.java" />
       <jump line="87" column="4" filename="/Volumes/workplace/ccrgate/src/PQCCRGatewayService/tst/com/amazon/pqccrgateway/backend/DefectDaoAdapterTest.java" />
       <jump line="69" column="0" filename="/Volumes/workplace/ccrgate/src/PQCCRGatewayService/tst/com/amazon/pqccrgateway/activity/GetRecordsForTableActivityTest.java" />
@@ -819,13 +817,15 @@
       <jump line="17" column="0" filename="/Volumes/workplace/ccrgate/src/PQCCRGatewayService/src/com/amazon/pqccrgateway/activity/getRecordsForChartActivity.java" />
       <jump line="114" column="0" filename="/Volumes/workplace/ccrgate/src/PQCCRGatewayService/tst/com/amazon/pqccrgateway/activity/GetRecordsForChartActivityTest.java" />
       <jump line="439" column="0" filename="/Volumes/workplace/ccrgate/src/PQCCRGatewayService/tst/com/amazon/pqccrgateway/activity/GetRecordsForChartActivityTest.java" />
+      <jump line="60" column="123" filename="$USER_HOME$/workplace/pq-defects/src/ProductQualityDefectsLib/src/com/amazon/productquality/common/defect/model/v2/DefectV2.java" />
+      <jump line="44" column="18" filename="$USER_HOME$/workplace/pq-defects/src/ProductQualityDefectsLib/src/com/amazon/productquality/common/defect/model/v2/DefectV2.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>additionalAttributes</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAqICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>additionalAttributes</text>
+        <text encoding="base64">d2hpY2ggd2UgY2FuIA==</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
@@ -833,29 +833,29 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8qIHJlc3Qgb2YgZGF0YSBmaWVsZHMgKi8KICAgIHByaXZhdGUgU3RyaW5nIGFzaW47CiAgICBwcml2YXRlIFN0cmluZyBicmFuZENvZGU7CiAgICBwcml2YXRlIFN0cmluZyBicmFuZE5hbWU7CiAgICBwcml2YXRlIGxvbmcgYnV5ZXJDdXN0b21lcklEOwogICAgcHJpdmF0ZSBTdHJpbmcgZGVmZWN0Qm9keTsKICAgIHByaXZhdGUgTG9jYWxEYXRlVGltZSBkZWZlY3REYXRldGltZTsKICAgIHByaXZhdGUgU3RyaW5nIGRlZmVjdFN0YXR1czsKICAgIHByaXZhdGUgU2V0PFN0cmluZz4gZGVmZWN0U3VidHlwZXM7CiAgICBwcml2YXRlIFN0cmluZyBmdWxmaWxsZWRCeTsKICAgIHByaXZhdGUgbG9uZyBnbFByb2R1Y3RHcm91cDsKICAgIHByaXZhdGUgU3RyaW5nIGhhc0hhcmRIaXQ7IC8vIFRPRE86IHNob3VsZCB3ZSBtb2RlbCB0aGVzZSBhcyBib29sZWFucyBhbmQgZGVhbCB3aXRoIGEgbGl0dGxlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBleHRyYSBlZmZvcnQgc2VyaWFsaXppbmcgb3IgYmUgdGllZCB0byB0aGUgcmRibXMgbm90IGhhdmluZwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gYm9vbGVhbnMuIE9uIHRoZSBvdGhlciBoYW5kLCB1c2luZyBib29sZWFucyBtZWFucyB3ZSBhcmUgZm9yY2VkIHRvCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBkbyBhIGxpdHRsZSB2YWxpZGF0aW9uIG9uIERCIHJlYWRzIChlZy4gbm9uICJZIi8iTiIgdmFsdWVzIHdvdWxkCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBlcnJvciBvdXQpLCB3aGljaCBpcyBhZ2FpbnN0IHRoaXMgRGVmZWN0IFBPSk8ncyBkZXNpZ24uCiAgICBwcml2YXRlIFN0cmluZyBoaXREZXNjcmlwdGlvbjsKICAgIHByaXZhdGUgU3RyaW5nIGlzQ29tbWluZ2xlZDsKICAgIHByaXZhdGUgU3RyaW5nIGlzUmV0YWlsTWVyY2hhbnQ7CiAgICBwcml2YXRlIFN0cmluZyBpdGVtQ29uZGl0aW9uVHlwZTsKICAgIHByaXZhdGUgU3RyaW5nIGl0ZW1OYW1lOwogICAgcHJpdmF0ZSBTdHJpbmcgb2ZmZXJpbmdTa3U7CiAgICBwcml2YXRlIFN0cmluZyBvcmRlcklEOwogICAgcHJpdmF0ZSBzaG9ydCByZWdpb25JRDsKICAgIHByaXZhdGUgU2V0PFN0cmluZz4gc2VhcmNoS2V5czsKICAgIHByaXZhdGUgbG9uZyBzb3VyY2VJT0c7CiAgICBwcml2YXRlIGxvbmcgc291cmNlTWVyY2hhbnRDdXN0b21lcklEOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>additionalAttributes</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAqICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>optionalFields</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAqIDwvcD4K</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IC8vIE9SREVSX0RBWSBpcyBhbHdheXMgY2FwdHVyZWQgd2l0aG91dCB0aW1lIGluZm9ybWF0aW9u</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>*</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAqIEhvbGRzIGFueSBvcHRpb25hbCBvciBzeXN0ZW0gZ2VuZXJhdGVkIGF0dHJpYnV0ZXMgdGhhdCBtYXkgbm90IGJlIGluIHRoZSBwZXJzaXN0ZWQgc3RhdGUgb2YgdGhlIG9iamVjdC4KICAgICAqIEVnLiB3ZSBjYW4gaGF2ZSBhbiBhdEZhdWx0RW50aXR5IGF0dHJpYnV0ZSBjb21wdXRlZCBiYXNlZCBvbiBydWxlcyBhcm91bmQgaXNCb29tZXJhbmcsIHNvdXJjZU1lcmNoYW50Q3VzdG9tZXJJRCwgZXRjLgo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAqIEhvbGRzIGFueSBvcHRpb25hbCBvciBzeXN0ZW0gZ2VuZXJhdGVkIGF0dHJpYnV0ZXMgdGhhdCBtYXkgbm90IGJlIGluIHRoZSBwZXJzaXN0ZWQgc3RhdGUgb2YgdGhlIG9iamVjdC4KICAgICAqIEVnLiB3ZSBjYW4gaGF2ZSBhbiBhdEZhdWx0RW50aXR5IGF0dHJpYnV0ZSBjb21wdXRlZCBiYXNlZCBvbiBydWxlcyBhcm91bmQgaXNCb29tZXJhbmcsIHNvdXJjZU1lcmNoYW50Q3VzdG9tZXJJRCwgZXRjLgo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAqIDxwPgo=</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">Ly8g</text>
+        <text encoding="base64">d2hpY2ggd2UgY2FuIA==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -866,7 +866,7 @@
         </keys>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IC8vIEZvciBjcml0aWNhbCBkYXRhLCB3ZSBvbmx5IHN0b3JlIGEgcmVmIHRvIHRoZSBtZXNzYWdlLg==</text>
+        <text>have</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -881,8 +881,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IC8vIA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

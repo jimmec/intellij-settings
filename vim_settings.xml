@@ -12,12 +12,15 @@
       <file name="/a.dummy" timestamp="1487147350250">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" timestamp="1487148549713">
-        <mark key="'" line="171" column="14" />
-        <mark key="[" line="391" column="84" />
-        <mark key="]" line="391" column="74" />
-        <mark key="^" line="391" column="74" />
-        <mark key="." line="391" column="74" />
+      <file name="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/TwsApi.jar!/com/ib/controller/ApiController.class" timestamp="1487149451171">
+        <mark key="'" line="895" column="36" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" timestamp="1487151492589">
+        <mark key="'" line="466" column="36" />
+        <mark key="[" line="466" column="0" />
+        <mark key="]" line="466" column="45" />
+        <mark key="." line="466" column="0" />
+        <mark key="^" line="466" column="12" />
       </file>
     </filemarks>
     <jumps>
@@ -39,24 +42,63 @@
       <jump line="364" column="12" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/samples/rfq/SimpleWrapper.java" />
       <jump line="60" column="0" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/ApiDemo.java" />
       <jump line="280" column="121" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/ApiDemo.java" />
+      <jump line="73" column="80" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/TwsApi.jar!/com/ib/controller/ApiController.class" />
+      <jump line="881" column="19" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/TwsApi.jar!/com/ib/controller/ApiController.class" />
+      <jump line="884" column="69" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/TwsApi.jar!/com/ib/controller/ApiController.class" />
+      <jump line="886" column="29" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/TwsApi.jar!/com/ib/controller/ApiController.class" />
+      <jump line="891" column="52" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/TwsApi.jar!/com/ib/controller/ApiController.class" />
+      <jump line="893" column="59" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/TwsApi.jar!/com/ib/controller/ApiController.class" />
+      <jump line="895" column="36" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/TwsApi.jar!/com/ib/controller/ApiController.class" />
+      <jump line="466" column="36" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>m_model</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCQlvdXRwdXRGaWxlV3JpdGVyLndyaXRlKCJcbiIpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>m_model</text>
+        <text encoding="base64">CQkJCWUucHJpbnRTdGFja1RyYWNlKCk7</text>
       </register>
       <register name="/" type="4">
-        <text>market</text>
+        <text>log</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">CQkJCQlvdXRwdXRGaWxlV3JpdGVyLndyaXRlKCJcbiIpOwo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQkgICAgb3V0cHV0RmlsZVdyaXRlcgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJb3V0cHV0RmlsZVdyaXRlciA9IG5ldyBGaWxlKCIvVXNlcnMvamltbXkvIiArICkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCVN0cmluZyBwYXRoID0gU3RyaW5nLmZvcm1hdCgiL1VzZXJzL2ppbW15LyVzLSVzLSVzJXMtJXMuY3N2IiwgCgkJCQkJCWNvbnRyYWN0LnN5bWJvbCgpLCBlbmREYXRlLCBkdXJhdGlvbiwgZHVyYXRpb25Vbml0LCBiYXJTaXplLnRvU3RyaW5nKCkpOwo=</text>
+      </register>
+      <register name="6" type="4">
+        <text>String.format(&quot;/Users/jimmy/%s-%s-%s%s-%s.csv&quot;, 
+                        contract.symbol(), endDate, duration, durationUnit, barSize.toString())</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewoJCQl9Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJCWUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJCg==</text>
       </register>
     </registers>
     <search>
-      <last-search>market</last-search>
+      <last-search>log</last-search>
       <last-offset />
-      <last-pattern>market</last-pattern>
+      <last-pattern>log</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -68,6 +110,8 @@
         <entry>hist</entry>
         <entry>marketdata</entry>
         <entry>market</entry>
+        <entry>historical</entry>
+        <entry>log</entry>
       </history-search>
       <history-cmd />
       <history-expr />

@@ -12,12 +12,12 @@
       <file name="/a.dummy" timestamp="1487147350250">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" timestamp="1487147659421">
+      <file name="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" timestamp="1487148549713">
         <mark key="'" line="171" column="14" />
-        <mark key="[" line="406" column="51" />
-        <mark key="]" line="406" column="50" />
-        <mark key="^" line="406" column="50" />
-        <mark key="." line="406" column="50" />
+        <mark key="[" line="391" column="84" />
+        <mark key="]" line="391" column="74" />
+        <mark key="^" line="391" column="74" />
+        <mark key="." line="391" column="74" />
       </file>
     </filemarks>
     <jumps>
@@ -41,6 +41,12 @@
       <jump line="280" column="121" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/ApiDemo.java" />
     </jumps>
     <registers>
+      <register name="&quot;" type="4">
+        <text>m_model</text>
+      </register>
+      <register name="-" type="4">
+        <text>m_model</text>
+      </register>
       <register name="/" type="4">
         <text>market</text>
       </register>
@@ -63,6 +69,9 @@
         <entry>marketdata</entry>
         <entry>market</entry>
       </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">

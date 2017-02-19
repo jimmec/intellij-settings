@@ -15,12 +15,11 @@
       <file name="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/TwsApi.jar!/com/ib/controller/ApiController.class" timestamp="1487149451171">
         <mark key="'" line="895" column="36" />
       </file>
-      <file name="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" timestamp="1487151492589">
-        <mark key="'" line="466" column="36" />
-        <mark key="[" line="466" column="0" />
-        <mark key="]" line="466" column="45" />
-        <mark key="." line="466" column="0" />
-        <mark key="^" line="466" column="12" />
+      <file name="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" timestamp="1487480294895">
+        <mark key="'" line="311" column="57" />
+        <mark key="[" line="345" column="0" />
+        <mark key="]" line="345" column="0" />
+        <mark key="." line="345" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -50,68 +49,77 @@
       <jump line="893" column="59" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/TwsApi.jar!/com/ib/controller/ApiController.class" />
       <jump line="895" column="36" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/TwsApi.jar!/com/ib/controller/ApiController.class" />
       <jump line="466" column="36" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
+      <jump line="473" column="33" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
+      <jump line="467" column="26" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
+      <jump line="36" column="40" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
+      <jump line="61" column="32" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
+      <jump line="91" column="12" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
+      <jump line="72" column="21" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
+      <jump line="311" column="57" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQlvdXRwdXRGaWxlV3JpdGVyLndyaXRlKCJcbiIpOwo=</text>
+        <text encoding="base64">CQkJCUFwaURlbW8uSU5TVEFOQ0UuY29udHJvbGxlcigpLnJlcQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">CQkJCWUucHJpbnRTdGFja1RyYWNlKCk7</text>
       </register>
       <register name="/" type="4">
-        <text>log</text>
+        <text>histor</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQlvdXRwdXRGaWxlV3JpdGVyLndyaXRlKCJcbiIpOwo=</text>
+        <text encoding="base64">CQkJQXBpRGVtby5JTlNUQU5DRS5jb250cm9sbGVyKCkucmVxSGlzdG9yaWNhbERhdGEobV9jb250cmFjdCwgbV9lbmQuZ2V0VGV4dCgpLCBtX2R1cmF0aW9uLmdldEludCgpLCBtX2R1cmF0aW9uVW5pdC5nZXRTZWxlY3RlZEl0ZW0oKSwgbV9iYXJTaXplLmdldFNlbGVjdGVkSXRlbSgpLCBtX3doYXRUb1Nob3cuZ2V0U2VsZWN0ZWRJdGVtKCksIG1fcnRoT25seS5pc1NlbGVjdGVkKCksIHBhbmVsKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCUFwaURlbW8uSU5TVEFOQ0UuY29udHJvbGxlcigpLnJlcQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkgICAgb3V0cHV0RmlsZVdyaXRlcgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJb3V0cHV0RmlsZVdyaXRlciA9IG5ldyBGaWxlKCIvVXNlcnMvamltbXkvIiArICkK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkgICAgb3V0cHV0RmlsZVdyaXRlcgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJb3V0cHV0RmlsZVdyaXRlciA9IG5ldyBGaWxlKCIvVXNlcnMvamltbXkvIiArICkK</text>
+      </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">CQkJCVN0cmluZyBwYXRoID0gU3RyaW5nLmZvcm1hdCgiL1VzZXJzL2ppbW15LyVzLSVzLSVzJXMtJXMuY3N2IiwgCgkJCQkJCWNvbnRyYWN0LnN5bWJvbCgpLCBlbmREYXRlLCBkdXJhdGlvbiwgZHVyYXRpb25Vbml0LCBiYXJTaXplLnRvU3RyaW5nKCkpOwo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>String.format(&quot;/Users/jimmy/%s-%s-%s%s-%s.csv&quot;, 
                         contract.symbol(), endDate, duration, durationUnit, barSize.toString())</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkJfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewoJCQl9Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJCWUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQkJCWUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search>log</last-search>
+      <last-search>histor</last-search>
       <last-offset />
-      <last-pattern>log</last-pattern>
+      <last-pattern>histor</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>histor</entry>
         <entry>hirstory</entry>
         <entry>histo</entry>
         <entry>results</entry>
-        <entry>history</entry>
         <entry>hist</entry>
         <entry>marketdata</entry>
         <entry>market</entry>
         <entry>historical</entry>
         <entry>log</entry>
+        <entry>file</entry>
+        <entry>m_contract</entry>
+        <entry>history</entry>
+        <entry>histor</entry>
       </history-search>
       <history-cmd />
       <history-expr />

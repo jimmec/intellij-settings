@@ -19,8 +19,8 @@
       <file name="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/TwsApi.jar!/com/ib/controller/ApiController.class" timestamp="1487149451171">
         <mark key="'" line="895" column="36" />
       </file>
-      <file name="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" timestamp="1487492528904">
-        <mark key="'" line="524" column="89" />
+      <file name="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" timestamp="1487495576264">
+        <mark key="'" line="446" column="25" />
         <mark key="[" line="397" column="62" />
         <mark key="]" line="397" column="89" />
         <mark key="." line="397" column="89" />
@@ -98,6 +98,10 @@
       <jump line="121" column="56" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
       <jump line="377" column="16" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
       <jump line="524" column="89" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
+      <jump line="740" column="48" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
+      <jump line="9" column="15" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
+      <jump line="10" column="15" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
+      <jump line="446" column="25" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -107,7 +111,7 @@
         <text>avg: &quot; + previousDownloadTimeSeconds.stream().mapToLong(Long::new).average())</text>
       </register>
       <register name="/" type="4">
-        <text>acquire</text>
+        <text>file</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJU3lzdGVtLm91dC5wcmludGxuKCI9PT09PT09PT09PT09PT09PT09PT09PT09PT09Iik7Cg==</text>
@@ -141,9 +145,9 @@
       </register>
     </registers>
     <search>
-      <last-search>acquire</last-search>
+      <last-search>file</last-search>
       <last-offset />
-      <last-pattern>acquire</last-pattern>
+      <last-pattern>file</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -172,9 +176,9 @@
         <entry>Receive</entry>
         <entry>out.pirn</entry>
         <entry>out.print</entry>
-        <entry>file</entry>
         <entry>price-</entry>
         <entry>acquire</entry>
+        <entry>file</entry>
       </history-search>
       <history-cmd />
       <history-expr />

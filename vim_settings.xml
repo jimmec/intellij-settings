@@ -6,27 +6,34 @@
       <file name="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/samples/rfq/SimpleWrapper.java" timestamp="1487146926703">
         <mark key="'" line="364" column="12" />
       </file>
-      <file name="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/ApiDemo.java" timestamp="1487147112519">
-        <mark key="'" line="280" column="121" />
+      <file name="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/ApiDemo.java" timestamp="1487481655475">
+        <mark key="'" line="233" column="0" />
+        <mark key="[" line="50" column="71" />
+        <mark key="]" line="50" column="81" />
+        <mark key="." line="50" column="81" />
+        <mark key="^" line="50" column="81" />
       </file>
-      <file name="/a.dummy" timestamp="1487147350250">
+      <file name="/a.dummy" timestamp="1487480985361">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/TwsApi.jar!/com/ib/controller/ApiController.class" timestamp="1487149451171">
         <mark key="'" line="895" column="36" />
       </file>
-      <file name="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" timestamp="1487480294895">
-        <mark key="'" line="311" column="57" />
-        <mark key="[" line="345" column="0" />
-        <mark key="]" line="345" column="0" />
-        <mark key="." line="345" column="0" />
+      <file name="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" timestamp="1487482830642">
+        <mark key="'" line="382" column="27" />
+        <mark key="[" line="353" column="90" />
+        <mark key="]" line="354" column="32" />
+        <mark key="." line="354" column="32" />
+        <mark key="^" line="354" column="32" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/ContractPanel.java" timestamp="1487480469097">
+        <mark key="'" line="59" column="29" />
       </file>
     </filemarks>
     <jumps>
       <jump line="138" column="38" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
       <jump line="299" column="8" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
       <jump line="342" column="14" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
-      <jump line="380" column="14" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
       <jump line="516" column="32" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
       <jump line="517" column="51" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
       <jump line="519" column="71" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
@@ -51,58 +58,89 @@
       <jump line="466" column="36" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
       <jump line="473" column="33" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
       <jump line="467" column="26" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
-      <jump line="36" column="40" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
-      <jump line="61" column="32" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
       <jump line="91" column="12" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
       <jump line="72" column="21" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
       <jump line="311" column="57" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
+      <jump line="18" column="13" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/ContractPanel.java" />
+      <jump line="20" column="63" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/ContractPanel.java" />
+      <jump line="36" column="27" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/ContractPanel.java" />
+      <jump line="38" column="39" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/ContractPanel.java" />
+      <jump line="45" column="50" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/ContractPanel.java" />
+      <jump line="59" column="29" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/ContractPanel.java" />
+      <jump line="57" column="12" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
+      <jump line="364" column="114" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
+      <jump line="415" column="25" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
+      <jump line="233" column="0" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/ApiDemo.java" />
+      <jump line="59" column="35" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
+      <jump line="61" column="22" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
+      <jump line="400" column="53" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
+      <jump line="429" column="15" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
+      <jump line="450" column="62" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
+      <jump line="520" column="73" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
+      <jump line="316" column="57" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
+      <jump line="318" column="22" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
+      <jump line="344" column="25" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
+      <jump line="359" column="28" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
+      <jump line="362" column="40" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
+      <jump line="417" column="65" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
+      <jump line="349" column="12" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
+      <jump line="529" column="41" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
+      <jump line="36" column="40" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
+      <jump line="66" column="32" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
+      <jump line="56" column="30" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
+      <jump line="531" column="19" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
+      <jump line="530" column="19" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
+      <jump line="513" column="23" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
+      <jump line="507" column="19" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
+      <jump line="506" column="19" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
+      <jump line="464" column="23" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
+      <jump line="380" column="27" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCUFwaURlbW8uSU5TVEFOQ0UuY29udHJvbGxlcigpLnJlcQo=</text>
+      <register name="&quot;" type="4">
+        <text>============================&quot;);</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CQkJCWUucHJpbnRTdGFja1RyYWNlKCk7</text>
+        <text>============================&quot;);</text>
       </register>
       <register name="/" type="4">
-        <text>histor</text>
+        <text>out.print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJQXBpRGVtby5JTlNUQU5DRS5jb250cm9sbGVyKCkucmVxSGlzdG9yaWNhbERhdGEobV9jb250cmFjdCwgbV9lbmQuZ2V0VGV4dCgpLCBtX2R1cmF0aW9uLmdldEludCgpLCBtX2R1cmF0aW9uVW5pdC5nZXRTZWxlY3RlZEl0ZW0oKSwgbV9iYXJTaXplLmdldFNlbGVjdGVkSXRlbSgpLCBtX3doYXRUb1Nob3cuZ2V0U2VsZWN0ZWRJdGVtKCksIG1fcnRoT25seS5pc1NlbGVjdGVkKCksIHBhbmVsKTsK</text>
+        <text encoding="base64">CQkJU3lzdGVtLm91dC5wcmludGxuKCI9PT09PT09PT09PT09PT09PT09PT09PT09PT09Iik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCUFwaURlbW8uSU5TVEFOQ0UuY29udHJvbGxlcigpLnJlcQo=</text>
+        <text encoding="base64">CQkJQXBpRGVtby5JTlNUQU5DRS5jb250cm9sbGVyKCkK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkgICAgb3V0cHV0RmlsZVdyaXRlcgo=</text>
+        <text encoding="base64">CQkJU3RyaW5nW10gdGlja2VycyA9IG5ldyBTdHJpbmdbXSB7Ik1NTSIsIkFCVCIsIkFCQlYiLCJBQ04iLCJBVFZJIiwiQVlJIiwiQURCRSIsIkFBUCIsIkFFUyIsIkFFVCIsIkFNRyIsIkFGTCIsIkEiLCJBUEQiLCJBS0FNIiwiQUxLIiwiQUxCIiwiQUdOIiwiTE5UIiwiQUxYTiIsIkFMTEUiLCJBRFMiLCJBTEwiLCJHT09HTCIsIkdPT0ciLCJNTyIsIkFNWk4iLCJBRUUiLCJBQUwiLCJBRVAiLCJBWFAiLCJBSUciLCJBTVQiLCJBV0siLCJBTVAiLCJBQkMiLCJBTUUiLCJBTUdOIiwiQVBIIiwiQVBDIiwiQURJIiwiQU5UTSIsIkFPTiIsIkFQQSIsIkFJViIsIkFBUEwiLCJBTUFUIiwiQURNIiwiQVJOQyIsIkFKRyIsIkFJWiIsIlQiLCJBRFNLIiwiQURQIiwiQU4iLCJBWk8iLCJBVkIiLCJBVlkiLCJCSEkiLCJCTEwiLCJCQUMiLCJCSyIsIkJDUiIsIkJBWCIsIkJCVCIsIkJEWCIsIkJCQlkiLCJCUksuQiIsIkJCWSIsIkJJSUIiLCJCTEsiLCJIUkIiLCJCQSIsIkJXQSIsIkJYUCIsIkJTWCIsIkJNWSIsIkFWR08iLCJCRi5CIiwiQ0hSVyIsIkNBIiwiQ09HIiwiQ1BCIiwiQ09GIiwiQ0FIIiwiSFNJQyIsIktNWCIsIkNDTCIsIkNBVCIsIkNCRyIsIkNCUyIsIkNFTEciLCJDTkMiLCJDTlAiLCJDVEwiLCJDRVJOIiwiQ0YiLCJTQ0hXIiwiQ0hUUiIsIkNISyIsIkNWWCIsIkNNRyIsIkNCIiwiQ0hEIiwiQ0kiLCJYRUMiLCJDSU5GIiwiQ1RBUyIsIkNTQ08iLCJDIiwiQ0ZHIiwiQ1RYUyIsIkNMWCIsIkNNRSIsIkNNUyIsIkNPSCIsIktPIiwiQ1RTSCIsIkNMIiwiQ01DU0EiLCJDTUEiLCJDQUciLCJDWE8iLCJDT1AiLCJFRCIsIlNUWiIsIkdMVyIsIkNPU1QiLCJDT1RZIiwiQ0NJIiwiQ1NSQSIsIkNTWCIsIkNNSSIsIkNWUyIsIkRISSIsIkRIUiIsIkRSSSIsIkRWQSIsIkRFIiwiRExQSCIsIkRBTCIsIlhSQVkiLCJEVk4iLCJETFIiLCJERlMiLCJESVNDQSIsIkRJU0NLIiwiREciLCJETFRSIiwiRCIsIkRPViIsIkRPVyIsIkRQUyIsIkRURSIsIkREIiwiRFVLIiwiRE5CIiwiRVRGQyIsIkVNTiIsIkVUTiIsIkVCQVkiLCJFQ0wiLCJFSVgiLCJFVyIsIkVBIiwiRU1SIiwiRU5EUCIsIkVUUiIsIkVWSEMiLCJFT0ciLCJFUVQiLCJFRlgiLCJFUUlYIiwiRVFSIiwiRVNTIiwiRUwiLCJFUyIsIkVYQyIsIkVYUEUiLCJFWFBEIiwiRVNSWCIsIkVYUiIsIlhPTSIsIkZGSVYiLCJGQiIsIkZBU1QiLCJGUlQiLCJGRFgiLCJGSVMiLCJGSVRCIiwiRlNMUiIsIkZFIiwiRklTViIsIkZMSVIiLCJGTFMiLCJGTFIiLCJGTUMiLCJGVEkiLCJGTCIsIkYiLCJGVFYiLCJGQkhTIiwiQkVOIiwiRkNYIiwiRlRSIiwiR1BTIiwiR1JNTiIsIkdEIiwiR0UiLCJHR1AiLCJHSVMiLCJHTSIsIkdQQyIsIkdJTEQiLCJHUE4iLCJHUyIsIkdUIiwiR1dXIiwiSEFMIiwiSEJJIiwiSE9HIiwiSEFSIiwiSFJTIiwiSElHIiwiSEFTIiwiSENBIiwiSENQIiwiSFAiLCJIRVMiLCJIUEUiLCJIT0xYIiwiSEQiLCJIT04iLCJIUkwiLCJIU1QiLCJIUFEiLCJIVU0iLCJIQkFOIiwiSURYWCIsIklUVyIsIklMTU4iLCJJUiIsIklOVEMiLCJJQ0UiLCJJQk0iLCJJUCIsIklQRyIsIklGRiIsIklOVFUiLCJJU1JHIiwiSVZaIiwiSVJNIiwiSkVDIiwiSkJIVCIsIlNKTSIsIkpOSiIsIkpDSSIsIkpQTSIsIkpOUFIiLCJLU1UiLCJLIiwiS0VZIiwiS01CIiwiS0lNIiwiS01JIiwiS0xBQyIsIktTUyIsIktIQyIsIktSIiwiTEIiLCJMTEwiLCJMSCIsIkxSQ1giLCJMRUciLCJMRU4iLCJMVkxUIiwiTFVLIiwiTExZIiwiTE5DIiwiTExUQyIsIkxLUSIsIkxNVCIsIkwiLCJMT1ciLCJMWUIiLCJNVEIiLCJNQUMiLCJNIiwiTU5LIiwiTVJPIiwiTVBDIiwiTUFSIiwiTU1DIiwiTUxNIiwiTUFTIiwiTUEiLCJNQVQiLCJNS0MiLCJNQ0QiLCJNQ0siLCJNSk4iLCJNRFQiLCJNUksiLCJNRVQiLCJNVEQiLCJLT1JTIiwiTUNIUCIsIk1VIiwiTVNGVCIsIk1BQSIsIk1ISyIsIlRBUCIsIk1ETFoiLCJNT04iLCJNTlNUIiwiTUNPIiwiTVMiLCJNT1MiLCJNU0kiLCJNVVIiLCJNWUwiLCJOREFRIiwiTk9WIiwiTkFWSSIsIk5UQVAiLCJORkxYIiwiTldMIiwiTkZYIiwiTkVNIiwiTldTQSIsIk5XUyIsIk5FRSIsIk5MU04iLCJOS0UiLCJOSSIsIk5CTCIsIkpXTiIsIk5TQyIsIk5UUlMiLCJOT0MiLCJOUkciLCJOVUUiLCJOVkRBIiwiT1JMWSIsIk9YWSIsIk9NQyIsIk9LRSIsIk9SQ0wiLCJQQ0FSIiwiUEgiLCJQRENPIiwiUEFZWCIsIlBZUEwiLCJQTlIiLCJQQkNUIiwiUEVQIiwiUEtJIiwiUFJHTyIsIlBGRSIsIlBDRyIsIlBNIiwiUFNYIiwiUE5XIiwiUFhEIiwiUEJJIiwiUE5DIiwiUkwiLCJQUEciLCJQUEwiLCJQWCIsIlBDTE4iLCJQRkciLCJQRyIsIlBHUiIsIlBMRCIsIlBSVSIsIlBFRyIsIlBTQSIsIlBITSIsIlBWSCIsIlFSVk8iLCJQV1IiLCJRQ09NIiwiREdYIiwiUlJDIiwiUlROIiwiTyIsIlJIVCIsIlJFR04iLCJSRiIsIlJTRyIsIlJBSSIsIlJISSIsIlJPSyIsIkNPTCIsIlJPUCIsIlJPU1QiLCJSQ0wiLCJSIiwiQ1JNIiwiU0NHIiwiU0xCIiwiU05JIiwiU1RYIiwiU0VFIiwiU1JFIiwiU0hXIiwiU0lHIiwiU1BHIiwiU1dLUyIsIlNMRyIsIlNOQSIsIlNPIiwiTFVWIiwiU1dOIiwiU0UiLCJTUEdJIiwiU1dLIiwiU1BMUyIsIlNCVVgiLCJTVFQiLCJTUkNMIiwiU1lLIiwiU1RJIiwiU1lNQyIsIlNZRiIsIlNZWSIsIlRST1ciLCJUR1QiLCJURUwiLCJUR05BIiwiVERDIiwiVFNPIiwiVFhOIiwiVFhUIiwiQ09PIiwiSFNZIiwiVFJWIiwiVE1PIiwiVElGIiwiVFdYIiwiVEpYIiwiVE1LIiwiVFNTIiwiVFNDTyIsIlRERyIsIlJJRyIsIlRSSVAiLCJGT1hBIiwiRk9YIiwiVFNOIiwiVURSIiwiVUxUQSIsIlVTQiIsIlVBIiwiVUFBIiwiVU5QIiwiVUFMIiwiVU5IIiwiVVBTIiwiVVJJIiwiVVRYIiwiVUhTIiwiVU5NIiwiVVJCTiIsIlZGQyIsIlZMTyIsIlZBUiIsIlZUUiIsIlZSU04iLCJWUlNLIiwiVloiLCJWUlRYIiwiVklBQiIsIlYiLCJWTk8iLCJWTUMiLCJXTVQiLCJXQkEiLCJESVMiLCJXTSIsIldBVCIsIldFQyIsIldGQyIsIkhDTiIsIldEQyIsIldVIiwiV1JLIiwiV1kiLCJXSFIiLCJXRk0iLCJXTUIiLCJXTFRXIiwiV1lOIiwiV1lOTiIsIlhFTCIsIlhSWCIsIlhMTlgiLCJYTCIsIlhZTCIsIllIT08iLCJZVU0iLCJaQkgiLCJaSU9OIiwiWlRTIn07IGludCB3YWl0U2Vjb25kcyA9IDM1OwoJCQlmb3IgKGludCBpID0gMDsgaSA8IHRpY2tlcnMubGVuZ3RoOyArK2kpIHsKCQkJCVN0cmluZyB0aWNrZXIgPSB0aWNrZXJzW2ldOwoJCQkJU3RyaW5nIGN1cnJQcm9ncmVzc1N0YXQgPSAoaSArIDEpICsgIiBvdXQgb2YgIiArIHRpY2tlcnMubGVuZ3RoOwoJCQkJU3RyaW5nIHN0YXRVcGRhdGUgPSAiRG93bmxvYWRpbmcgWyIgKyB0aWNrZXIgKyAiXSwgIiArIGN1cnJQcm9ncmVzc1N0YXQ7CgkJCQlTeXN0ZW0ub3V0LnByaW50bG4oc3RhdFVwZGF0ZSk7CgkJCQlsb2dnZXIubG9nKHN0YXRVcGRhdGUpOwoKCQkJCW1fY29udHJhY3Quc3ltYm9sKHRpY2tlcik7CgoJCQkJQmFyUmVzdWx0c1BhbmVsIHBhbmVsID0gbmV3IEJhclJlc3VsdHNQYW5lbCggdHJ1ZSwgbV9jb250cmFjdCwgbV9lbmQuZ2V0VGV4dCgpLCBtX2R1cmF0aW9uLmdldEludCgpLCBtX2R1cmF0aW9uVW5pdC5nZXRTZWxlY3RlZEl0ZW0oKSwgbV9iYXJTaXplLmdldFNlbGVjdGVkSXRlbSgpLCBtX3doYXRUb1Nob3cuZ2V0U2VsZWN0ZWRJdGVtKCkpOwoJCQkJQXBpRGVtby5JTlNUQU5DRS5jb250cm9sbGVyKCkKCQkJCQkJLnJlcUhpc3RvcmljYWxEYXRhKG1fY29udHJhY3QsIG1fZW5kLmdldFRleHQoKSwgbV9kdXJhdGlvbi5nZXRJbnQoKSwKCQkJCQkJCQltX2R1cmF0aW9uVW5pdC5nZXRTZWxlY3RlZEl0ZW0oKSwgbV9iYXJTaXplLmdldFNlbGVjdGVkSXRlbSgpLAoJCQkJCQkJCW1fd2hhdFRvU2hvdy5nZXRTZWxlY3RlZEl0ZW0oKSwgbV9ydGhPbmx5LmlzU2VsZWN0ZWQoKSwgcGFuZWwpOwovLwkJCQltX3Jlc3VsdHNQYW5lbC5hZGRUYWIoICJIaXN0b3JpY2FsICIgKyBtX2NvbnRyYWN0LnN5bWJvbCgpLCBwYW5lbCwgdHJ1ZSwgdHJ1ZSk7CgoJCQkJU3RyaW5nIHdhaXRNc2cgPSAiV2FpdGluZyAiICsgd2FpdFNlY29uZHMgKyAic2Vjb25kcyBiZWZvcmUgbmV4dCByZXF1ZXN0OyI7CgkJCQlTeXN0ZW0ub3V0LnByaW50bG4od2FpdE1zZyk7CgkJCQlsb2dnZXIubG9nKHdhaXRNc2cpOwoJCQkJdHJ5IHsKCQkJCQlUaHJlYWQuc2xlZXAod2FpdFNlY29uZHMgKiAxMDAwKTsKCQkJCX0gY2F0Y2ggKEludGVycnVwdGVkRXhjZXB0aW9uIGUpIHsKCQkJCQlTdHJpbmcgaW50ZXJydXB0ZWRNc2cgPSAiaW50ZXJydXB0ZWQgd2hpbGUgd2FpdGluZyBmb3IgbmV4dCBkb3dubG9hZDsgSnVzdCBzZW50IHJlcXVlc3QgIiArIGN1cnJQcm9ncmVzc1N0YXQ7CgkJCQkJU3lzdGVtLm91dC5wcmludGxuKGludGVycnVwdGVkTXNnKTsKCQkJCQlsb2dnZXIubG9nKGludGVycnVwdGVkTXNnKTsKCQkJCQllLnByaW50U3RhY2tUcmFjZSgpOwoJCQkJfQoJCQl9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJb3V0cHV0RmlsZVdyaXRlciA9IG5ldyBGaWxlKCIvVXNlcnMvamltbXkvIiArICkK</text>
+        <text encoding="base64">CQkJCW1fcmVzdWx0c1BhbmVsLmFkZFRhYiggIkhpc3RvcmljYWwgIiArIG1fY29udHJhY3Quc3ltYm9sKCksIHBhbmVsLCB0cnVlLCB0cnVlKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCVN0cmluZyBwYXRoID0gU3RyaW5nLmZvcm1hdCgiL1VzZXJzL2ppbW15LyVzLSVzLSVzJXMtJXMuY3N2IiwgCgkJCQkJCWNvbnRyYWN0LnN5bWJvbCgpLCBlbmREYXRlLCBkdXJhdGlvbiwgZHVyYXRpb25Vbml0LCBiYXJTaXplLnRvU3RyaW5nKCkpOwo=</text>
+        <text encoding="base64">CQkJCW1fY29udHJhY3Quc3ltYm9sKHRpY2tlcik7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>String.format(&quot;/Users/jimmy/%s-%s-%s%s-%s.csv&quot;, 
-                        contract.symbol(), endDate, duration, durationUnit, barSize.toString())</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJCUJhclJlc3VsdHNQYW5lbCBwYW5lbCA9IG5ldyBCYXJSZXN1bHRzUGFuZWwoIHRydWUsIG1fY29udHJhY3QsIG1fZW5kLmdldFRleHQoKSwgbV9kdXJhdGlvbi5nZXRJbnQoKSwgbV9kdXJhdGlvblVuaXQuZ2V0U2VsZWN0ZWRJdGVtKCksIG1fYmFyU2l6ZS5nZXRTZWxlY3RlZEl0ZW0oKSwgbV93aGF0VG9TaG93LmdldFNlbGVjdGVkSXRlbSgpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewoJCQl9Cg==</text>
+        <text encoding="base64">CQkJCUFwaURlbW8uSU5TVEFOQ0UuY29udHJvbGxlcigpLnJlcUhpc3RvcmljYWxEYXRhKG1fY29udHJhY3QsIG1fZW5kLmdldFRleHQoKSwgbV9kdXJhdGlvbi5nZXRJbnQoKSwgbV9kdXJhdGlvblVuaXQuZ2V0U2VsZWN0ZWRJdGVtKCksIG1fYmFyU2l6ZS5nZXRTZWxlY3RlZEl0ZW0oKSwgbV93aGF0VG9TaG93LmdldFNlbGVjdGVkSXRlbSgpLCBtX3J0aE9ubHkuaXNTZWxlY3RlZCgpLCBwYW5lbCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCWUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
+        <text encoding="base64">CQkJbV9yZXN1bHRzUGFuZWwuYWRkVGFiKCAiSGlzdG9yaWNhbCAiICsgbV9jb250cmFjdC5zeW1ib2woKSwgcGFuZWwsIHRydWUsIHRydWUpOwo=</text>
       </register>
     </registers>
     <search>
-      <last-search>histor</last-search>
+      <last-search>out.print</last-search>
       <last-offset />
-      <last-pattern>histor</last-pattern>
+      <last-pattern>out.print</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -116,10 +154,22 @@
         <entry>market</entry>
         <entry>historical</entry>
         <entry>log</entry>
-        <entry>file</entry>
         <entry>m_contract</entry>
         <entry>history</entry>
+        <entry>secid</entry>
+        <entry>sec</entry>
+        <entry>recH</entry>
+        <entry>file</entry>
+        <entry>marketData</entry>
+        <entry>logger</entry>
+        <entry>path</entry>
+        <entry>wait</entry>
+        <entry>histro</entry>
+        <entry>writing</entry>
         <entry>histor</entry>
+        <entry>Receive</entry>
+        <entry>out.pirn</entry>
+        <entry>out.print</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -128,6 +178,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>

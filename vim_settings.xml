@@ -19,12 +19,12 @@
       <file name="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/TwsApi.jar!/com/ib/controller/ApiController.class" timestamp="1487149451171">
         <mark key="'" line="895" column="36" />
       </file>
-      <file name="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" timestamp="1487526343458">
-        <mark key="'" line="368" column="461" />
-        <mark key="[" line="397" column="25" />
-        <mark key="]" line="397" column="24" />
-        <mark key="." line="397" column="24" />
-        <mark key="^" line="397" column="24" />
+      <file name="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" timestamp="1487528286762">
+        <mark key="'" line="369" column="18" />
+        <mark key="[" line="398" column="150" />
+        <mark key="]" line="399" column="63" />
+        <mark key="." line="399" column="63" />
+        <mark key="^" line="399" column="63" />
       </file>
       <file name="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/ContractPanel.java" timestamp="1487480469097">
         <mark key="'" line="59" column="29" />
@@ -101,9 +101,10 @@
       <jump line="9" column="15" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
       <jump line="10" column="15" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
       <jump line="446" column="25" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
-      <jump line="369" column="18" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
+      <jump line="368" column="12" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
+      <jump line="370" column="40" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
       <jump line="362" column="60" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
-      <jump line="368" column="461" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
+      <jump line="369" column="18" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -145,11 +146,16 @@
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name=":" type="4">
+        <text>s/\./ /gc</text>
+      </register>
     </registers>
     <search>
       <last-search>\.</last-search>
       <last-offset />
       <last-pattern>\.</last-pattern>
+      <last-replace encoding="base64">IA==</last-replace>
+      <last-substitute>\.</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -184,7 +190,9 @@
         <entry>.</entry>
         <entry>\.</entry>
       </history-search>
-      <history-cmd />
+      <history-cmd>
+        <entry>s/\./ /gc</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>

@@ -16,12 +16,12 @@
       <file name="/a.dummy" timestamp="1487480985361">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/workspace/code/interactive-brokers-client/src/apidemo/MarketDataPanel.java" timestamp="1488866952776">
-        <mark key="'" line="367" column="12" />
-        <mark key="[" line="499" column="15" />
-        <mark key="]" line="499" column="21" />
-        <mark key="." line="499" column="21" />
-        <mark key="^" line="499" column="21" />
+      <file name="$USER_HOME$/Dropbox/workspace/code/interactive-brokers-client/src/apidemo/MarketDataPanel.java" timestamp="1488873857648">
+        <mark key="'" line="493" column="58" />
+        <mark key="[" line="497" column="52" />
+        <mark key="]" line="497" column="52" />
+        <mark key="." line="497" column="52" />
+        <mark key="^" line="497" column="52" />
       </file>
       <file name="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/TwsApi.jar!/com/ib/controller/ApiController.class" timestamp="1487149451171">
         <mark key="'" line="895" column="36" />
@@ -116,9 +116,6 @@
       <jump line="20" column="28" filename="$USER_HOME$/Dropbox/workspace/code/interactive-brokers-client/src/apidemo/MarketDataPanel.java" />
       <jump line="457" column="21" filename="$USER_HOME$/Dropbox/workspace/code/interactive-brokers-client/src/apidemo/MarketDataPanel.java" />
       <jump line="397" column="72" filename="$USER_HOME$/Dropbox/workspace/code/interactive-brokers-client/src/apidemo/MarketDataPanel.java" />
-      <jump line="462" column="52" filename="$USER_HOME$/Dropbox/workspace/code/interactive-brokers-client/src/apidemo/MarketDataPanel.java" />
-      <jump line="474" column="221" filename="$USER_HOME$/Dropbox/workspace/code/interactive-brokers-client/src/apidemo/MarketDataPanel.java" />
-      <jump line="483" column="66" filename="$USER_HOME$/Dropbox/workspace/code/interactive-brokers-client/src/apidemo/MarketDataPanel.java" />
       <jump line="491" column="12" filename="$USER_HOME$/Dropbox/workspace/code/interactive-brokers-client/src/apidemo/MarketDataPanel.java" />
       <jump line="564" column="12" filename="$USER_HOME$/Dropbox/workspace/code/interactive-brokers-client/src/apidemo/MarketDataPanel.java" />
       <jump line="67" column="22" filename="$USER_HOME$/Dropbox/workspace/code/interactive-brokers-client/src/apidemo/MarketDataPanel.java" />
@@ -131,7 +128,12 @@
       <jump line="323" column="35" filename="$USER_HOME$/Dropbox/workspace/code/interactive-brokers-client/src/apidemo/MarketDataPanel.java" />
       <jump line="324" column="40" filename="$USER_HOME$/Dropbox/workspace/code/interactive-brokers-client/src/apidemo/MarketDataPanel.java" />
       <jump line="361" column="115" filename="$USER_HOME$/Dropbox/workspace/code/interactive-brokers-client/src/apidemo/MarketDataPanel.java" />
-      <jump line="367" column="12" filename="$USER_HOME$/Dropbox/workspace/code/interactive-brokers-client/src/apidemo/MarketDataPanel.java" />
+      <jump line="367" column="25" filename="$USER_HOME$/Dropbox/workspace/code/interactive-brokers-client/src/apidemo/MarketDataPanel.java" />
+      <jump line="394" column="51" filename="$USER_HOME$/Dropbox/workspace/code/interactive-brokers-client/src/apidemo/MarketDataPanel.java" />
+      <jump line="462" column="38" filename="$USER_HOME$/Dropbox/workspace/code/interactive-brokers-client/src/apidemo/MarketDataPanel.java" />
+      <jump line="474" column="207" filename="$USER_HOME$/Dropbox/workspace/code/interactive-brokers-client/src/apidemo/MarketDataPanel.java" />
+      <jump line="483" column="52" filename="$USER_HOME$/Dropbox/workspace/code/interactive-brokers-client/src/apidemo/MarketDataPanel.java" />
+      <jump line="493" column="58" filename="$USER_HOME$/Dropbox/workspace/code/interactive-brokers-client/src/apidemo/MarketDataPanel.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -141,7 +143,7 @@
         <text>3</text>
       </register>
       <register name="/" type="4">
-        <text>download</text>
+        <text>timeout</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJU3lzdGVtLm91dC5wcmludGxuKCI9PT09PT09PT09PT09PT09PT09PT09PT09PT09Iik7Cg==</text>
@@ -178,9 +180,9 @@
       </register>
     </registers>
     <search>
-      <last-search>download</last-search>
+      <last-search>timeout</last-search>
       <last-offset />
-      <last-pattern>download</last-pattern>
+      <last-pattern>timeout</last-pattern>
       <last-replace encoding="base64">IA==</last-replace>
       <last-substitute>\.</last-substitute>
       <last-dir>1</last-dir>
@@ -219,6 +221,7 @@
         <entry>release</entry>
         <entry>executor</entry>
         <entry>download</entry>
+        <entry>timeout</entry>
       </history-search>
       <history-cmd>
         <entry>s/\./ /gc</entry>

@@ -16,12 +16,12 @@
       <file name="/a.dummy" timestamp="1487480985361">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/workspace/code/interactive-brokers-client/src/apidemo/MarketDataPanel.java" timestamp="1488877395295">
-        <mark key="'" line="500" column="52" />
-        <mark key="[" line="371" column="74" />
-        <mark key="]" line="372" column="27" />
-        <mark key="." line="372" column="27" />
-        <mark key="^" line="372" column="27" />
+      <file name="$USER_HOME$/Dropbox/workspace/code/interactive-brokers-client/src/apidemo/MarketDataPanel.java" timestamp="1488909647143">
+        <mark key="'" line="508" column="77" />
+        <mark key="[" line="403" column="20" />
+        <mark key="]" line="403" column="28" />
+        <mark key="." line="403" column="28" />
+        <mark key="^" line="403" column="28" />
       </file>
       <file name="$USER_HOME$/Dropbox/workspace/code/interactive-brokers-client/src/apidemo/ApiDemo.java" timestamp="1488877281750">
         <mark key="'" line="101" column="29" />
@@ -139,19 +139,21 @@
       <jump line="493" column="58" filename="$USER_HOME$/Dropbox/workspace/code/interactive-brokers-client/src/apidemo/MarketDataPanel.java" />
       <jump line="101" column="29" filename="$USER_HOME$/Dropbox/workspace/code/interactive-brokers-client/src/apidemo/ApiDemo.java" />
       <jump line="497" column="52" filename="$USER_HOME$/Dropbox/workspace/code/interactive-brokers-client/src/apidemo/MarketDataPanel.java" />
+      <jump line="375" column="32" filename="$USER_HOME$/Dropbox/workspace/code/interactive-brokers-client/src/apidemo/MarketDataPanel.java" />
+      <jump line="496" column="77" filename="$USER_HOME$/Dropbox/workspace/code/interactive-brokers-client/src/apidemo/MarketDataPanel.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>sp500In2012</text>
+        <text>break</text>
       </register>
       <register name="-" type="4">
-        <text>sp500In2012</text>
+        <text>break</text>
       </register>
       <register name="/" type="4">
-        <text>tickers</text>
+        <text>release</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJU3lzdGVtLm91dC5wcmludGxuKCI9PT09PT09PT09PT09PT09PT09PT09PT09PT09Iik7Cg==</text>
+        <text encoding="base64">CQkJdGhpcy5wYXRoID0gU3RyaW5nLmZvcm1hdCgiL1VzZXJzL2ppbW15L3ByaWNlLWRhdGEvc3A1MDAtMzBtaW4vMjAwNy0yMDEyLyVzLSVzLSVzJXMtJXMuY3N2IiwKCQkJCQljb250cmFjdC5zeW1ib2woKSwgZW5kRGF0ZSwgZHVyYXRpb24sIGR1cmF0aW9uVW5pdCwgYmFyU2l6ZS50b1N0cmluZygpKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJCQo=</text>
@@ -185,9 +187,9 @@
       </register>
     </registers>
     <search>
-      <last-search>tickers</last-search>
+      <last-search>release</last-search>
       <last-offset />
-      <last-pattern>tickers</last-pattern>
+      <last-pattern>release</last-pattern>
       <last-replace encoding="base64">IA==</last-replace>
       <last-substitute>\.</last-substitute>
       <last-dir>1</last-dir>
@@ -223,13 +225,13 @@
         <entry>file</entry>
         <entry>.</entry>
         <entry>\.</entry>
-        <entry>release</entry>
         <entry>executor</entry>
         <entry>download</entry>
         <entry>timeout</entry>
         <entry>ticker</entry>
         <entry>downloadall</entry>
         <entry>tickers</entry>
+        <entry>release</entry>
       </history-search>
       <history-cmd>
         <entry>s/\./ /gc</entry>

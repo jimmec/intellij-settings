@@ -16,6 +16,13 @@
       <file name="/a.dummy" timestamp="1487480985361">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/workspace/code/interactive-brokers-client/src/apidemo/MarketDataPanel.java" timestamp="1488866011314">
+        <mark key="'" line="457" column="21" />
+        <mark key="[" line="488" column="55" />
+        <mark key="]" line="489" column="39" />
+        <mark key="^" line="489" column="39" />
+        <mark key="." line="489" column="39" />
+      </file>
       <file name="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/TwsApi.jar!/com/ib/controller/ApiController.class" timestamp="1487149451171">
         <mark key="'" line="895" column="36" />
       </file>
@@ -105,55 +112,58 @@
       <jump line="370" column="40" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
       <jump line="362" column="60" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
       <jump line="369" column="18" filename="$USER_HOME$/Dropbox/workspace/Trade/IB/twsapi_macunix.972.18/IBJts/samples/Java/src/apidemo/MarketDataPanel.java" />
+      <jump line="363" column="32" filename="$USER_HOME$/Dropbox/workspace/code/interactive-brokers-client/src/apidemo/MarketDataPanel.java" />
+      <jump line="20" column="28" filename="$USER_HOME$/Dropbox/workspace/code/interactive-brokers-client/src/apidemo/MarketDataPanel.java" />
+      <jump line="457" column="21" filename="$USER_HOME$/Dropbox/workspace/code/interactive-brokers-client/src/apidemo/MarketDataPanel.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>166</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Db2xsZWN0aW9uczsK</text>
       </register>
       <register name="-" type="4">
-        <text>166</text>
+        <text>new ThreadPoolExecutor(2,2,5, TimeUnit.MINUTES,);</text>
       </register>
       <register name="/" type="4">
-        <text>\.</text>
+        <text>executor</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJU3lzdGVtLm91dC5wcmludGxuKCI9PT09PT09PT09PT09PT09PT09PT09PT09PT09Iik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Db2xsZWN0aW9uczsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCWxvZ2dlci5sb2coc3RhdFVwZGF0ZSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LkV4ZWN1dG9yOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCWxvZ2dlci5sb2cod2FpdE1zZyk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LlRocmVhZFBvb2xFeGVjdXRvcjsKaW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LlRpbWVVbml0Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCXRpbWluZ0RhdGEuYWRkKHN0YXJ0dGltZS51bnRpbChlbmR0aW1lLCBDaHJvbm9Vbml0LlNFQ09ORFMpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCUluc3RhbnQgc3RhcnR0aW1lID0gSW5zdGFudC5ub3coKTsK</text>
+        <text encoding="base64">CQkJCWxvZ2dlci5sb2coc3RhdFVwZGF0ZSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJICAgIEluc3RhbnQgc3RhcnR0aW1lID0gSW5zdGFudC5ub3coKTsK</text>
+        <text encoding="base64">CQkJCWxvZ2dlci5sb2cod2FpdE1zZyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CgkJCQl0cnkgewoJCQkJCVRocmVhZC5zbGVlcCh3YWl0U2Vjb25kcyAqIDEwMDApOwoJCQkJfSBjYXRjaCAoSW50ZXJydXB0ZWRFeGNlcHRpb24gZSkgewoJCQkJCVN0cmluZyBpbnRlcnJ1cHRlZE1zZyA9IEluc3RhbnQubm93KCkudG9TdHJpbmcoKSArICIgLSBpbnRlcnJ1cHRlZCB3aGlsZSB3YWl0aW5nIGZvciBuZXh0IGRvd25sb2FkOyBKdXN0IHNlbnQgcmVxdWVzdCAiICsgY3VyclByb2dyZXNzU3RhdDsKCQkJCQlTeXN0ZW0ub3V0LnByaW50bG4oaW50ZXJydXB0ZWRNc2cpOwoJCQkJCWxvZ2dlci5sb2coaW50ZXJydXB0ZWRNc2cpOwoJCQkJCWUucHJpbnRTdGFja1RyYWNlKCk7CgkJCQl9Cg==</text>
+        <text encoding="base64">CQkJCXRpbWluZ0RhdGEuYWRkKHN0YXJ0dGltZS51bnRpbChlbmR0aW1lLCBDaHJvbm9Vbml0LlNFQ09ORFMpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJQXBpRGVtby5JTlNUQU5DRS5jb250cm9sbGVyKCkK</text>
+        <text encoding="base64">CQkJCUluc3RhbnQgc3RhcnR0aW1lID0gSW5zdGFudC5ub3coKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJICAgIEluc3RhbnQgc3RhcnR0aW1lID0gSW5zdGFudC5ub3coKTsK</text>
       </register>
       <register name=":" type="4">
         <text>s/\./ /gc</text>
       </register>
     </registers>
     <search>
-      <last-search>\.</last-search>
+      <last-search>executor</last-search>
       <last-offset />
-      <last-pattern>\.</last-pattern>
+      <last-pattern>executor</last-pattern>
       <last-replace encoding="base64">IA==</last-replace>
       <last-substitute>\.</last-substitute>
       <last-dir>1</last-dir>
@@ -189,6 +199,8 @@
         <entry>file</entry>
         <entry>.</entry>
         <entry>\.</entry>
+        <entry>release</entry>
+        <entry>executor</entry>
       </history-search>
       <history-cmd>
         <entry>s/\./ /gc</entry>

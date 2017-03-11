@@ -16,12 +16,12 @@
       <file name="/a.dummy" timestamp="1487480985361">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/workspace/code/interactive-brokers-client/src/apidemo/MarketDataPanel.java" timestamp="1489039427533">
+      <file name="$USER_HOME$/Dropbox/workspace/code/interactive-brokers-client/src/apidemo/MarketDataPanel.java" timestamp="1489214310012">
         <mark key="'" line="324" column="44" />
-        <mark key="[" line="513" column="0" />
-        <mark key="]" line="513" column="74" />
-        <mark key="^" line="510" column="26" />
-        <mark key="." line="513" column="0" />
+        <mark key="[" line="490" column="16" />
+        <mark key="]" line="490" column="16" />
+        <mark key="^" line="490" column="16" />
+        <mark key="." line="490" column="16" />
       </file>
       <file name="$USER_HOME$/Dropbox/workspace/code/interactive-brokers-client/src/apidemo/ApiDemo.java" timestamp="1488877281750">
         <mark key="'" line="101" column="29" />
@@ -143,11 +143,11 @@
       <jump line="324" column="44" filename="$USER_HOME$/Dropbox/workspace/code/interactive-brokers-client/src/apidemo/MarketDataPanel.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCUFwaURlbW8uSU5TVEFOQ0UuY29udHJvbGxlcigpLmNhbmNlbEhpc3RvcmljYWxEYXRhKCB0aGlzKTsK</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>15</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>timeout</text>

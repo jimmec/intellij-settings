@@ -27,6 +27,9 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift pressed TAB</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -56,17 +59,20 @@
         <mark key="^" line="6" column="13" />
         <mark key="." line="6" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/pages/home_page.dart" timestamp="1600078395899">
-        <mark key="[" line="15" column="58" />
-        <mark key="]" line="15" column="58" />
-        <mark key="^" line="15" column="58" />
-        <mark key="." line="15" column="57" />
+      <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/pages/home_page.dart" timestamp="1600080006249">
+        <mark key="[" line="26" column="118" />
+        <mark key="]" line="26" column="119" />
+        <mark key="^" line="26" column="119" />
+        <mark key="." line="26" column="118" />
       </file>
       <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/environment_config.dart" timestamp="1600076450255">
         <mark key="[" line="7" column="2" />
         <mark key="]" line="7" column="4" />
         <mark key="." line="7" column="3" />
         <mark key="^" line="7" column="4" />
+      </file>
+      <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/pages/status_page.dart" timestamp="1600078711365">
+        <mark key="'" line="133" column="58" />
       </file>
       <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/ios/Runner/Info.plist" timestamp="1600048262551">
         <mark key="[" line="13" column="30" />
@@ -85,12 +91,12 @@
         <mark key="." line="17" column="41" />
         <mark key="^" line="17" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/actions.dart" timestamp="1600076817134">
+      <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/actions.dart" timestamp="1600080064326">
         <mark key="'" line="42" column="18" />
-        <mark key="[" line="59" column="8" />
-        <mark key="]" line="59" column="19" />
-        <mark key="." line="59" column="18" />
-        <mark key="^" line="59" column="19" />
+        <mark key="[" line="55" column="111" />
+        <mark key="]" line="55" column="112" />
+        <mark key="." line="55" column="112" />
+        <mark key="^" line="55" column="119" />
       </file>
       <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/android/app/src/main/kotlin/com/primarybio/app/MainActivity.kt" timestamp="1600068571613">
         <mark key="[" line="4" column="39" />
@@ -98,9 +104,10 @@
         <mark key="." line="5" column="3" />
         <mark key="^" line="5" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/pages/add_appointment.dart" timestamp="1600077737021">
+      <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/pages/add_appointment.dart" timestamp="1600078819598">
+        <mark key="'" line="211" column="32" />
         <mark key="[" line="209" column="0" />
-        <mark key="]" line="214" column="67" />
+        <mark key="]" line="216" column="49" />
       </file>
     </filemarks>
     <jumps>
@@ -109,48 +116,50 @@
       <jump line="13" column="0" filename="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/utils.dart" />
       <jump line="84" column="12" filename="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/actions.dart" />
       <jump line="42" column="18" filename="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/actions.dart" />
+      <jump line="133" column="58" filename="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/pages/status_page.dart" />
+      <jump line="211" column="32" filename="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/pages/add_appointment.dart" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>appointmentCredentials()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>appointmentCredentials()</text>
+        <text>value</text>
       </register>
       <register name="/" type="4">
         <text>covid pass</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQmlvU3RhdHVzQWN0aW9ucyBhY3Rpb25zID0gQmlvU3RhdHVzQWN0aW9ucyhjb250ZXh0KTsKICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAiYmlydGggeWVhcjogJHllYXJPZkJpcnRoLCBhY2Nlc3MgY29kZTogJGFjY2Vzc0NvZGUsIGxhc3QgbmFtZTogJGxhc3ROYW1lIik7CiAgICAgICAgICAgICAgICAgICAgICAgIFJlc3BvbnNlV3JhcHBlcjxMaXN0PFRlc3Q+PiByZXNwb25zZSA9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBhd2FpdCBhY3Rpb25zLmZldGNoVGVzdFJlc3VsdHMoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbGFzdE5hbWUsIGFjY2Vzc0NvZGUsIHllYXJPZkJpcnRoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQmlvU3RhdHVzQWN0aW9ucyBhY3Rpb25zID0gQmlvU3RhdHVzQWN0aW9ucyhjb250ZXh0KTsKICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAiYmlydGggeWVhcjogJHllYXJPZkJpcnRoLCBhY2Nlc3MgY29kZTogJGFjY2Vzc0NvZGUsIGxhc3QgbmFtZTogJGxhc3ROYW1lIik7CiAgICAgICAgICAgICAgICAgICAgICAgIFJlc3BvbnNlV3JhcHBlcjxMaXN0PFRlc3Q+PiByZXNwb25zZSA9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBhd2FpdCBhY3Rpb25zLmZldGNoVGVzdFJlc3VsdHMoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbGFzdE5hbWUsIGFjY2Vzc0NvZGUsIHllYXJPZkJpcnRoKTsKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHJlc3BvbnNlLmlzU3VjY2VzcygpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgTmF2aWdhdG9yLnBvcChjb250ZXh0KTsK</text>
       </register>
       <register name="1" type="2">
-        <text>7D62C36E6F</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoqCiAqIAogKi8K</text>
+        <text encoding="base64">ICAgICAgICB9KS47Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGRlYnVnTG9nKCJIb21lUGFnZSBzYXZlIGNyZWQgbG9hZCB0aW1lZCBvdXQuLiIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOmZsdXR0ZXIvZm91bmRhdGlvbi5kYXJ0JzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnRpbWVvdXQoRHVyYXRpb24oc2Vjb25kczogNSksIG9uVGltZW91dDogKCkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBFbnZpcm9ubWVudENvbmZpZyh7CiAgICBAcmVxdWlyZWQgdGhpcy5hcGlCYXNlVXJsCn0pCg==</text>
+        <text encoding="base64">ICAgICAgICAudGhlbigodmFsdWUpIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhY2thZ2U9ImNvbS5leGFtcGxlLmNvdmlkcGFzcyI+Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIFBTdG9yYWdlLmFwcG9pbnRtZW50Q3JlZGVudGlhbHMoKS50aGVuKCh2YWx1ZSkgewogICAgICBpZiAodmFsdWUubGVuZ3RoID4gMCkgewogICAgICAgIEJpb1N0YXR1c0FjdGlvbnMgYWN0aW9ucyA9IEJpb1N0YXR1c0FjdGlvbnMoY29udGV4dCk7CiAgICAgICAgcHJpbnQoCiAgICAgICAgICAgICJiaXJ0aCB5ZWFyOiAke3ZhbHVlWzBdLnllYXJPZkJpcnRofSwgYWNjZXNzIGNvZGU6ICR7dmFsdWVbMF0KICAgICAgICAgICAgICAgIC5hY2Nlc3NDb2RlfSwgbGFzdCBuYW1lOiAke3ZhbHVlWzBdLmxhc3ROYW1lfSIpOwogICAgICAgIGFjdGlvbnMuZmV0Y2hUZXN0UmVzdWx0cygKICAgICAgICAgICAgdmFsdWVbMF0ubGFzdE5hbWUsIHZhbHVlWzBdLmFjY2Vzc0NvZGUsIHZhbHVlWzBdLnllYXJPZkJpcnRoKQogICAgICAgICAgICAudGltZW91dChEdXJhdGlvbihzZWNvbmRzOiA1KSwgb25UaW1lb3V0OiAoKSB7CiAgICAgICAgICBkZWJ1Z0xvZygiSG9tZVBhZ2Ugc2F2ZSBjcmVkIGxvYWQgdGltZWQgb3V0Li4iKTsKICAgICAgICB9KS47CiAgICAgIH0KICAgIH0pOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhY2thZ2U9ImNvbS5leGFtcGxlLmNvdmlkcGFzcyI+Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhY2thZ2U9ImNvbS5leGFtcGxlLmNvdmlkcGFzcyI+Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/covid pass/PrimaryBio/</text>

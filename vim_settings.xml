@@ -24,6 +24,9 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -41,11 +44,11 @@
         <mark key="." line="17" column="41" />
         <mark key="^" line="17" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/actions.dart" timestamp="1600055458334">
-        <mark key="[" line="18" column="41" />
-        <mark key="]" line="18" column="42" />
-        <mark key="." line="18" column="41" />
-        <mark key="^" line="18" column="42" />
+      <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/actions.dart" timestamp="1600066430327">
+        <mark key="[" line="17" column="28" />
+        <mark key="]" line="17" column="28" />
+        <mark key="." line="17" column="27" />
+        <mark key="^" line="17" column="28" />
       </file>
     </filemarks>
     <jumps>
@@ -55,14 +58,20 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>primary-stagingc.herokuapp.com</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGJhY2tlbmQgPSAnaHR0cDovL2xvY2FsaG9zdDozMDAwL2FwaSc7Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHJlc3BvbnNlLgo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGJhY2tlbmQgPSAnaHR0cDovL2xvY2FsaG9zdDozMDAwL2FwaSc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/covid pass/PrimaryBio/</text>
       </register>
       <register name="-" type="4">
-        <text>primary-stagingc.herokuapp.com</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>covid pass</text>

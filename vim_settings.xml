@@ -59,11 +59,11 @@
         <mark key="^" line="6" column="13" />
         <mark key="." line="6" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/pages/home_page.dart" timestamp="1600080006249">
-        <mark key="[" line="26" column="118" />
-        <mark key="]" line="26" column="119" />
-        <mark key="^" line="26" column="119" />
-        <mark key="." line="26" column="118" />
+      <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/pages/home_page.dart" timestamp="1600080182916">
+        <mark key="[" line="26" column="117" />
+        <mark key="]" line="26" column="141" />
+        <mark key="^" line="26" column="141" />
+        <mark key="." line="26" column="140" />
       </file>
       <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/environment_config.dart" timestamp="1600076450255">
         <mark key="[" line="7" column="2" />
@@ -91,12 +91,12 @@
         <mark key="." line="17" column="41" />
         <mark key="^" line="17" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/actions.dart" timestamp="1600080064326">
+      <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/actions.dart" timestamp="1600080170165">
         <mark key="'" line="42" column="18" />
-        <mark key="[" line="55" column="111" />
-        <mark key="]" line="55" column="112" />
-        <mark key="." line="55" column="112" />
-        <mark key="^" line="55" column="119" />
+        <mark key="[" line="81" column="16" />
+        <mark key="]" line="82" column="4" />
+        <mark key="." line="82" column="3" />
+        <mark key="^" line="82" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/android/app/src/main/kotlin/com/primarybio/app/MainActivity.kt" timestamp="1600068571613">
         <mark key="[" line="4" column="39" />
@@ -123,10 +123,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>value</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>covid pass</text>
@@ -135,31 +135,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQmlvU3RhdHVzQWN0aW9ucyBhY3Rpb25zID0gQmlvU3RhdHVzQWN0aW9ucyhjb250ZXh0KTsKICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAiYmlydGggeWVhcjogJHllYXJPZkJpcnRoLCBhY2Nlc3MgY29kZTogJGFjY2Vzc0NvZGUsIGxhc3QgbmFtZTogJGxhc3ROYW1lIik7CiAgICAgICAgICAgICAgICAgICAgICAgIFJlc3BvbnNlV3JhcHBlcjxMaXN0PFRlc3Q+PiByZXNwb25zZSA9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBhd2FpdCBhY3Rpb25zLmZldGNoVGVzdFJlc3VsdHMoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbGFzdE5hbWUsIGFjY2Vzc0NvZGUsIHllYXJPZkJpcnRoKTsKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHJlc3BvbnNlLmlzU3VjY2VzcygpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgTmF2aWdhdG9yLnBvcChjb250ZXh0KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9KS47Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRlYnVnTG9nKCJIb21lUGFnZSBzYXZlIGNyZWQgbG9hZCB0aW1lZCBvdXQuLiIpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnRpbWVvdXQoRHVyYXRpb24oc2Vjb25kczogNSksIG9uVGltZW91dDogKCkgewo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAudGhlbigodmFsdWUpIHsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGF3YWl0IHNhdmVUZXN0Q3JlZGVudGlhbHMobGFzdE5hbWUsIGFjY2Vzc0NvZGUsIHllYXJPZkJpcnRoKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIH0pOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB9KS47Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIGRlYnVnTG9nKCJIb21lUGFnZSBzYXZlIGNyZWQgbG9hZCB0aW1lZCBvdXQuLiIpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLnRpbWVvdXQoRHVyYXRpb24oc2Vjb25kczogNSksIG9uVGltZW91dDogKCkgewo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFBTdG9yYWdlLmFwcG9pbnRtZW50Q3JlZGVudGlhbHMoKS50aGVuKCh2YWx1ZSkgewogICAgICBpZiAodmFsdWUubGVuZ3RoID4gMCkgewogICAgICAgIEJpb1N0YXR1c0FjdGlvbnMgYWN0aW9ucyA9IEJpb1N0YXR1c0FjdGlvbnMoY29udGV4dCk7CiAgICAgICAgcHJpbnQoCiAgICAgICAgICAgICJiaXJ0aCB5ZWFyOiAke3ZhbHVlWzBdLnllYXJPZkJpcnRofSwgYWNjZXNzIGNvZGU6ICR7dmFsdWVbMF0KICAgICAgICAgICAgICAgIC5hY2Nlc3NDb2RlfSwgbGFzdCBuYW1lOiAke3ZhbHVlWzBdLmxhc3ROYW1lfSIpOwogICAgICAgIGFjdGlvbnMuZmV0Y2hUZXN0UmVzdWx0cygKICAgICAgICAgICAgdmFsdWVbMF0ubGFzdE5hbWUsIHZhbHVlWzBdLmFjY2Vzc0NvZGUsIHZhbHVlWzBdLnllYXJPZkJpcnRoKQogICAgICAgICAgICAudGltZW91dChEdXJhdGlvbihzZWNvbmRzOiA1KSwgb25UaW1lb3V0OiAoKSB7CiAgICAgICAgICBkZWJ1Z0xvZygiSG9tZVBhZ2Ugc2F2ZSBjcmVkIGxvYWQgdGltZWQgb3V0Li4iKTsKICAgICAgICB9KS47CiAgICAgIH0KICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAudGhlbigodmFsdWUpIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIFBTdG9yYWdlLmFwcG9pbnRtZW50Q3JlZGVudGlhbHMoKS50aGVuKCh2YWx1ZSkgewogICAgICBpZiAodmFsdWUubGVuZ3RoID4gMCkgewogICAgICAgIEJpb1N0YXR1c0FjdGlvbnMgYWN0aW9ucyA9IEJpb1N0YXR1c0FjdGlvbnMoY29udGV4dCk7CiAgICAgICAgcHJpbnQoCiAgICAgICAgICAgICJiaXJ0aCB5ZWFyOiAke3ZhbHVlWzBdLnllYXJPZkJpcnRofSwgYWNjZXNzIGNvZGU6ICR7dmFsdWVbMF0KICAgICAgICAgICAgICAgIC5hY2Nlc3NDb2RlfSwgbGFzdCBuYW1lOiAke3ZhbHVlWzBdLmxhc3ROYW1lfSIpOwogICAgICAgIGFjdGlvbnMuZmV0Y2hUZXN0UmVzdWx0cygKICAgICAgICAgICAgdmFsdWVbMF0ubGFzdE5hbWUsIHZhbHVlWzBdLmFjY2Vzc0NvZGUsIHZhbHVlWzBdLnllYXJPZkJpcnRoKQogICAgICAgICAgICAudGltZW91dChEdXJhdGlvbihzZWNvbmRzOiA1KSwgb25UaW1lb3V0OiAoKSB7CiAgICAgICAgICBkZWJ1Z0xvZygiSG9tZVBhZ2Ugc2F2ZSBjcmVkIGxvYWQgdGltZWQgb3V0Li4iKTsKICAgICAgICB9KS47CiAgICAgIH0KICAgIH0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/covid pass/PrimaryBio/</text>

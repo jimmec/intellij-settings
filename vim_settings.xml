@@ -43,11 +43,18 @@
         <mark key="." line="40" column="40" />
         <mark key="^" line="40" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/environment_config.dart" timestamp="1600075347010">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="9" column="10" />
+      <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/utils.dart" timestamp="1600076767921">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="6" column="10" />
+        <mark key="]" line="6" column="13" />
+        <mark key="^" line="6" column="13" />
+        <mark key="." line="6" column="12" />
+      </file>
+      <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/environment_config.dart" timestamp="1600076450255">
+        <mark key="[" line="7" column="2" />
+        <mark key="]" line="7" column="4" />
+        <mark key="." line="7" column="3" />
+        <mark key="^" line="7" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/ios/Runner/Info.plist" timestamp="1600048262551">
         <mark key="[" line="13" column="30" />
@@ -72,11 +79,12 @@
         <mark key="." line="17" column="41" />
         <mark key="^" line="17" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/actions.dart" timestamp="1600074144632">
-        <mark key="[" line="15" column="49" />
-        <mark key="]" line="15" column="50" />
-        <mark key="." line="15" column="49" />
-        <mark key="^" line="15" column="50" />
+      <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/actions.dart" timestamp="1600076817134">
+        <mark key="'" line="42" column="18" />
+        <mark key="[" line="59" column="8" />
+        <mark key="]" line="59" column="19" />
+        <mark key="." line="59" column="18" />
+        <mark key="^" line="59" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/android/app/src/main/kotlin/com/primarybio/app/MainActivity.kt" timestamp="1600068571613">
         <mark key="[" line="4" column="39" />
@@ -88,15 +96,18 @@
     <jumps>
       <jump line="17" column="41" filename="$USER_HOME$/workspace/primary-cz/biostatus_frontend/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" />
       <jump line="33" column="29" filename="$USER_HOME$/workspace/primary-cz/biostatus_frontend/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" />
+      <jump line="13" column="0" filename="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/utils.dart" />
+      <jump line="84" column="12" filename="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/actions.dart" />
+      <jump line="42" column="18" filename="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/actions.dart" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text>7D62C36E6F</text>
+      <register name="&quot;" type="4">
+        <text>Print</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFyIA==</text>
+        <text>Print</text>
       </register>
       <register name="/" type="4">
         <text>covid pass</text>

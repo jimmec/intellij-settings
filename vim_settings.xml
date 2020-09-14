@@ -43,11 +43,11 @@
         <mark key="." line="40" column="40" />
         <mark key="^" line="40" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/environment_config.dart" timestamp="1600074310287">
-        <mark key="[" line="2" column="47" />
-        <mark key="]" line="2" column="13" />
-        <mark key="." line="2" column="13" />
-        <mark key="^" line="2" column="12" />
+      <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/environment_config.dart" timestamp="1600075347010">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/ios/Runner/Info.plist" timestamp="1600048262551">
         <mark key="[" line="13" column="30" />
@@ -93,10 +93,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">LyoqCiAqIAogKi8K</text>
+        <text>7D62C36E6F</text>
       </register>
       <register name="-" type="4">
-        <text>var</text>
+        <text encoding="base64">dmFyIA==</text>
       </register>
       <register name="/" type="4">
         <text>covid pass</text>
@@ -105,31 +105,31 @@
         <text encoding="base64">ICAgIHBhY2thZ2U9ImNvbS5wcmltYXJ5YmlvLmFwcCI+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyoqCiAqIAogKi8K</text>
+        <text>7D62C36E6F</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAqIAogKi8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOmZsdXR0ZXIvZm91bmRhdGlvbi5kYXJ0JzsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBFbnZpcm9ubWVudENvbmZpZyh7CiAgICBAcmVxdWlyZWQgdGhpcy5hcGlCYXNlVXJsCn0pCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhY2thZ2U9ImNvbS5leGFtcGxlLmNvdmlkcGFzcyI+Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOmZsdXR0ZXIvZm91bmRhdGlvbi5kYXJ0JzsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBFbnZpcm9ubWVudENvbmZpZyh7CiAgICBAcmVxdWlyZWQgdGhpcy5hcGlCYXNlVXJsCn0pCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHBhY2thZ2U9ImNvbS5leGFtcGxlLmNvdmlkcGFzcyI+Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIHBhY2thZ2U9ImNvbS5leGFtcGxlLmNvdmlkcGFzcyI+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlc3BvbnNlLgo=</text>
+        <text encoding="base64">ICAgIHBhY2thZ2U9ImNvbS5leGFtcGxlLmNvdmlkcGFzcyI+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/covid pass/PrimaryBio/</text>

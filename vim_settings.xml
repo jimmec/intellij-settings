@@ -16,13 +16,20 @@
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/ios/Runner.xcodeproj/project.pbxproj" timestamp="1600042743296">
+        <mark key="[" line="377" column="48" />
+        <mark key="]" line="377" column="58" />
+        <mark key="." line="377" column="57" />
+        <mark key="^" line="377" column="58" />
+      </file>
+    </filemarks>
     <jumps />
   </component>
   <component name="VimSearchSettings">
     <search>
       <last-dir>0</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">

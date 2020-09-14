@@ -43,11 +43,11 @@
         <mark key="." line="40" column="40" />
         <mark key="^" line="40" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/environment_config.dart" timestamp="1600070552299">
-        <mark key="[" line="3" column="19" />
-        <mark key="]" line="3" column="84" />
-        <mark key="^" line="3" column="84" />
-        <mark key="." line="3" column="83" />
+      <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/environment_config.dart" timestamp="1600074310287">
+        <mark key="[" line="2" column="47" />
+        <mark key="]" line="2" column="13" />
+        <mark key="." line="2" column="13" />
+        <mark key="^" line="2" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/ios/Runner/Info.plist" timestamp="1600048262551">
         <mark key="[" line="13" column="30" />
@@ -72,11 +72,11 @@
         <mark key="." line="17" column="41" />
         <mark key="^" line="17" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/actions.dart" timestamp="1600066430327">
-        <mark key="[" line="17" column="28" />
-        <mark key="]" line="17" column="28" />
-        <mark key="." line="17" column="27" />
-        <mark key="^" line="17" column="28" />
+      <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/actions.dart" timestamp="1600074144632">
+        <mark key="[" line="15" column="49" />
+        <mark key="]" line="15" column="50" />
+        <mark key="." line="15" column="49" />
+        <mark key="^" line="15" column="50" />
       </file>
       <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/android/app/src/main/kotlin/com/primarybio/app/MainActivity.kt" timestamp="1600068571613">
         <mark key="[" line="4" column="39" />
@@ -92,35 +92,47 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LyoqCiAqIAogKi8K</text>
+      </register>
+      <register name="-" type="4">
+        <text>var</text>
+      </register>
+      <register name="/" type="4">
+        <text>covid pass</text>
+      </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHBhY2thZ2U9ImNvbS5wcmltYXJ5YmlvLmFwcCI+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhY2thZ2U9ImNvbS5leGFtcGxlLmNvdmlkcGFzcyI+Cg==</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>covidpass</text>
+        <text encoding="base64">LyoqCiAqIAogKi8K</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhY2thZ2U9ImNvbS5leGFtcGxlLmNvdmlkcGFzcyI+Cg==</text>
+        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOmZsdXR0ZXIvZm91bmRhdGlvbi5kYXJ0JzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhY2thZ2U9ImNvbS5leGFtcGxlLmNvdmlkcGFzcyI+Cg==</text>
+        <text encoding="base64">ICBFbnZpcm9ubWVudENvbmZpZyh7CiAgICBAcmVxdWlyZWQgdGhpcy5hcGlCYXNlVXJsCn0pCg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIHBhY2thZ2U9ImNvbS5leGFtcGxlLmNvdmlkcGFzcyI+Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHBhY2thZ2U9ImNvbS5leGFtcGxlLmNvdmlkcGFzcyI+Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHBhY2thZ2U9ImNvbS5leGFtcGxlLmNvdmlkcGFzcyI+Cg==</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ICAgIHJlc3BvbnNlLgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/covid pass/PrimaryBio/</text>
-      </register>
-      <register name="-" type="4">
-        <text>covidpass</text>
-      </register>
-      <register name="/" type="4">
-        <text>covid pass</text>
       </register>
     </registers>
   </component>

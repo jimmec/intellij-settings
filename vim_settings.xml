@@ -37,6 +37,12 @@
         <mark key="]" line="1" column="33" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/android/app/src/main/AndroidManifest.xml" timestamp="1600068674372">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="33" />
+        <mark key="^" line="1" column="31" />
+        <mark key="." line="1" column="30" />
+      </file>
       <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/android/app/build.gradle" timestamp="1600069299654">
         <mark key="[" line="40" column="37" />
         <mark key="]" line="40" column="41" />
@@ -49,6 +55,12 @@
         <mark key="]" line="6" column="13" />
         <mark key="^" line="6" column="13" />
         <mark key="." line="6" column="12" />
+      </file>
+      <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/pages/home_page.dart" timestamp="1600078395899">
+        <mark key="[" line="15" column="58" />
+        <mark key="]" line="15" column="58" />
+        <mark key="^" line="15" column="58" />
+        <mark key="." line="15" column="57" />
       </file>
       <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/environment_config.dart" timestamp="1600076450255">
         <mark key="[" line="7" column="2" />
@@ -66,12 +78,6 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/android/app/src/main/AndroidManifest.xml" timestamp="1600068674372">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="33" />
-        <mark key="^" line="1" column="31" />
-        <mark key="." line="1" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" timestamp="1600042931460">
         <mark key="[" line="17" column="32" />
@@ -92,6 +98,10 @@
         <mark key="." line="5" column="3" />
         <mark key="^" line="5" column="4" />
       </file>
+      <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/pages/add_appointment.dart" timestamp="1600077737021">
+        <mark key="[" line="209" column="0" />
+        <mark key="]" line="214" column="67" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="17" column="41" filename="$USER_HOME$/workspace/primary-cz/biostatus_frontend/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" />
@@ -104,16 +114,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Print</text>
+        <text>appointmentCredentials()</text>
       </register>
       <register name="-" type="4">
-        <text>Print</text>
+        <text>appointmentCredentials()</text>
       </register>
       <register name="/" type="4">
         <text>covid pass</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBhY2thZ2U9ImNvbS5wcmltYXJ5YmlvLmFwcCI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQmlvU3RhdHVzQWN0aW9ucyBhY3Rpb25zID0gQmlvU3RhdHVzQWN0aW9ucyhjb250ZXh0KTsKICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAiYmlydGggeWVhcjogJHllYXJPZkJpcnRoLCBhY2Nlc3MgY29kZTogJGFjY2Vzc0NvZGUsIGxhc3QgbmFtZTogJGxhc3ROYW1lIik7CiAgICAgICAgICAgICAgICAgICAgICAgIFJlc3BvbnNlV3JhcHBlcjxMaXN0PFRlc3Q+PiByZXNwb25zZSA9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBhd2FpdCBhY3Rpb25zLmZldGNoVGVzdFJlc3VsdHMoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbGFzdE5hbWUsIGFjY2Vzc0NvZGUsIHllYXJPZkJpcnRoKTsK</text>
       </register>
       <register name="1" type="2">
         <text>7D62C36E6F</text>

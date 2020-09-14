@@ -4,6 +4,18 @@
       <key-repeat enabled="false" />
     </editor>
   </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>COVID</entry>
+        <entry>covid</entry>
+        <entry>covid pass</entry>
+      </history-search>
+      <history-cmd>
+        <entry>%s/covid pass/PrimaryBio/</entry>
+      </history-cmd>
+    </history>
+  </component>
   <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
@@ -17,19 +29,56 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/ios/Runner.xcodeproj/project.pbxproj" timestamp="1600042743296">
-        <mark key="[" line="377" column="48" />
-        <mark key="]" line="377" column="58" />
-        <mark key="." line="377" column="57" />
-        <mark key="^" line="377" column="58" />
+      <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/ios/Runner/Info.plist" timestamp="1600044102537">
+        <mark key="[" line="13" column="22" />
+        <mark key="]" line="13" column="27" />
+        <mark key="." line="13" column="26" />
+        <mark key="^" line="13" column="27" />
+      </file>
+      <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" timestamp="1600042931460">
+        <mark key="'" line="33" column="29" />
+        <mark key="[" line="17" column="32" />
+        <mark key="]" line="17" column="42" />
+        <mark key="." line="17" column="41" />
+        <mark key="^" line="17" column="42" />
+      </file>
+      <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/ios/Runner.xcodeproj/project.pbxproj" timestamp="1600042874604">
+        <mark key="[" line="541" column="32" />
+        <mark key="]" line="541" column="42" />
+        <mark key="." line="541" column="41" />
+        <mark key="^" line="541" column="42" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="17" column="41" filename="$USER_HOME$/workspace/primary-cz/biostatus_frontend/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" />
+      <jump line="33" column="29" filename="$USER_HOME$/workspace/primary-cz/biostatus_frontend/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="4">
+        <text>PrimaryBio</text>
+      </register>
+      <register name=":" type="4">
+        <text>%s/covid pass/PrimaryBio/</text>
+      </register>
+      <register name="-" type="4">
+        <text>PrimaryBio</text>
+      </register>
+      <register name="/" type="4">
+        <text>covid pass</text>
+      </register>
+    </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-dir>0</last-dir>
-      <show-last>false</show-last>
+      <last-search>covid pass</last-search>
+      <last-offset />
+      <last-pattern>covid pass</last-pattern>
+      <last-replace>PrimaryBio</last-replace>
+      <last-substitute>covid pass</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">

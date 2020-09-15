@@ -68,11 +68,11 @@
         <mark key="^" line="6" column="13" />
         <mark key="." line="6" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/pages/home_page.dart" timestamp="1600083616668">
-        <mark key="[" line="50" column="44" />
-        <mark key="]" line="50" column="45" />
-        <mark key="^" line="50" column="45" />
-        <mark key="." line="50" column="44" />
+      <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/pages/home_page.dart" timestamp="1600168371757">
+        <mark key="[" line="55" column="56" />
+        <mark key="]" line="55" column="58" />
+        <mark key="^" line="55" column="58" />
+        <mark key="." line="55" column="57" />
       </file>
       <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/environment_config.dart" timestamp="1600076450255">
         <mark key="[" line="7" column="2" />
@@ -115,11 +115,11 @@
         <mark key="." line="76" column="52" />
         <mark key="^" line="76" column="53" />
       </file>
-      <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/storage.dart" timestamp="1600166304566">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="38" column="10" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/storage.dart" timestamp="1600168173698">
+        <mark key="[" line="17" column="3" />
+        <mark key="]" line="17" column="13" />
+        <mark key="^" line="17" column="13" />
+        <mark key="." line="17" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/android/app/src/main/kotlin/com/primarybio/app/MainActivity.kt" timestamp="1600068571613">
         <mark key="[" line="4" column="39" />
@@ -145,11 +145,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>[</text>
       </register>
       <register name="-" type="4">
-        <text>Scaffold(body: StatusPage())</text>
+        <text>[</text>
       </register>
       <register name="/" type="4">
         <text>covid pass</text>

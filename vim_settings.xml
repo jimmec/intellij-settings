@@ -55,8 +55,8 @@
         <mark key="^" line="1" column="31" />
         <mark key="." line="1" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/models/models.dart" timestamp="1600589057231">
-        <mark key="[" line="72" column="49" />
+      <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/models/models.dart" timestamp="1600589120216">
+        <mark key="[" line="72" column="23" />
         <mark key="]" line="73" column="8" />
         <mark key="^" line="73" column="8" />
         <mark key="." line="73" column="7" />
@@ -74,19 +74,13 @@
         <mark key="^" line="6" column="13" />
         <mark key="." line="6" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/pages/home_page.dart" timestamp="1600588727536">
-        <mark key="[" line="36" column="18" />
-        <mark key="]" line="36" column="26" />
-        <mark key="." line="36" column="25" />
-        <mark key="^" line="36" column="26" />
-      </file>
       <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/environment_config.dart" timestamp="1600076450255">
         <mark key="[" line="7" column="2" />
         <mark key="]" line="7" column="4" />
         <mark key="." line="7" column="3" />
         <mark key="^" line="7" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/pages/status_page.dart" timestamp="1600585235533">
+      <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/pages/status_page.dart" timestamp="1600591659223">
         <mark key="'" line="181" column="64" />
         <mark key="[" line="259" column="48" />
         <mark key="]" line="259" column="67" />
@@ -110,12 +104,8 @@
         <mark key="." line="17" column="41" />
         <mark key="^" line="17" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/actions.dart" timestamp="1600588886794">
+      <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/actions.dart" timestamp="1600590371751">
         <mark key="'" line="42" column="18" />
-        <mark key="[" line="79" column="6" />
-        <mark key="]" line="79" column="15" />
-        <mark key="." line="79" column="14" />
-        <mark key="^" line="79" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/main.dart" timestamp="1600083940243">
         <mark key="[" line="76" column="43" />
@@ -123,11 +113,11 @@
         <mark key="." line="76" column="52" />
         <mark key="^" line="76" column="53" />
       </file>
-      <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/storage.dart" timestamp="1600578371883">
-        <mark key="[" line="27" column="6" />
-        <mark key="]" line="27" column="13" />
-        <mark key="." line="27" column="12" />
-        <mark key="^" line="27" column="13" />
+      <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/storage.dart" timestamp="1600590096206">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="19" column="13" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/android/app/src/main/kotlin/com/primarybio/app/MainActivity.kt" timestamp="1600068571613">
         <mark key="[" line="4" column="39" />
@@ -150,12 +140,13 @@
       <jump line="133" column="58" filename="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/pages/status_page.dart" />
       <jump line="211" column="32" filename="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/pages/add_appointment.dart" />
       <jump line="181" column="64" filename="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/pages/status_page.dart" />
+      <jump line="19" column="0" filename="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/storage.dart" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>print</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgZGVidWdMb2codGVzdEpzb24pOwo=</text>
       </register>
       <register name="-" type="4">
         <text>print</text>
@@ -167,31 +158,31 @@
         <text encoding="base64">ICAgIHJldHVybiBTY2FmZm9sZCgKICAgICAgcmVzaXplVG9Bdm9pZEJvdHRvbVBhZGRpbmc6IHRydWUsCiAgICAgIGJvZHk6IENvbnRhaW5lcigKICAgICAgICBjb2xvcjogQ29sb3IoMHhmZkU1RTVFNSksCiAgICAgICAgY2hpbGQ6IFNhZmVBcmVhKAogICAgICAgICAgY2hpbGQ6IENvbHVtbigKICAgICAgICAgICAgbWFpbkF4aXNBbGlnbm1lbnQ6IE1haW5BeGlzQWxpZ25tZW50LnNwYWNlQmV0d2VlbiwKICAgICAgICAgICAgY2hpbGRyZW46IDxXaWRnZXQ+WwogICAgICAgICAgICAgIF9idWlsZEhlYWRlcihjb250ZXh0KSwKICAgICAgICAgICAgICB0ZXN0cy5sZW5ndGggPiAwCiAgICAgICAgICAgICAgICAgID8gX3Rlc3RzTGlzdChjb250ZXh0LCB0ZXN0R3JvdXAsIHRlc3RzKQogICAgICAgICAgICAgICAgICA6IF9idWlsZE5vVGVzdHMoY29udGV4dCksCiAgICAgICAgICAgICAgdGVzdHMubGVuZ3RoID4gMCA/IFNpemVkQm94KCkgOiBfYnVpbGRBY3Rpb25CdXR0b25zKGNvbnRleHQpLAogICAgICAgICAgICBdLAogICAgICAgICAgKSwKICAgICAgICApLAogICAgICApLAogICAgKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNuYXBzaG90Lgo=</text>
+        <text encoding="base64">ICAgICAgZGVidWdMb2codGVzdEpzb24pOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KGNyZWRlbnRpYWxzSnNvbik7CiAgICBpZiAoY3JlZGVudGlhbHNKc29uLmxlbmd0aCA+IDApIHsKICAgICAgcHJpbnQoanNvbi5kZWNvZGUoY3JlZGVudGlhbHNKc29uLmZpcnN0KSk7CiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdMb2coImV4aXN0aW5nIGNyZWRlbnRpYWxzOiAkZXhpc3RpbmdDcmVkcyIpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnQoZXhpc3RpbmdDcmVkcyk7Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KGNyZWRlbnRpYWxzSnNvbik7CiAgICBpZiAoY3JlZGVudGlhbHNKc29uLmxlbmd0aCA+IDApIHsKICAgICAgcHJpbnQoanNvbi5kZWNvZGUoY3JlZGVudGlhbHNKc29uLmZpcnN0KSk7CiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgKSwK</text>
+        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOmNvdmlkcGFzcy9tb2RlbHMvc2VyaWFsaXplcnMuZGFydCc7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY2hpbGQ6IFNpemVkQm94KAogICAgICAgIGhlaWdodDogMTAwLAo=</text>
+        <text encoding="base64">ICAgIHByaW50KGNyZWRlbnRpYWwpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICAgIC8vIGNyZWRlbnRpYWxzID0gW107CiAgICBwcmludChjcmVkZW50aWFscyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBzZXJpYWxpemVycy5zZXJpYWxpemVXaXRoKEFwcG9pbnRtZW50Q3JlZGVudGlhbC5zZXJpYWxpemVyLCB0aGlzKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNuYXBzaG90Lgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy8gc2VyaWFsaXplcnMuZGVzZXJpYWxpemVXaXRoKEFwcG9pbnRtZW50Q3JlZGVudGlhbC5zZXJpYWxpemVyLCBjcmVkZW50aWFsSnNvbik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/covid pass/PrimaryBio/</text>

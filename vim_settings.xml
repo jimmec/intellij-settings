@@ -20,10 +20,10 @@
   </component>
   <component name="VimKeySettings">
     <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed D</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed R</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -34,6 +34,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
@@ -51,11 +54,11 @@
         <mark key="^" line="1" column="31" />
         <mark key="." line="1" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/models/models.dart" timestamp="1600505898432">
-        <mark key="[" line="97" column="43" />
-        <mark key="]" line="97" column="43" />
-        <mark key="^" line="97" column="43" />
-        <mark key="." line="97" column="42" />
+      <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/models/models.dart" timestamp="1600578399046">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="^" line="76" column="35" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/android/app/build.gradle" timestamp="1600069299654">
         <mark key="[" line="40" column="37" />
@@ -82,10 +85,12 @@
         <mark key="." line="7" column="3" />
         <mark key="^" line="7" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/pages/status_page.dart" timestamp="1600083451788">
-        <mark key="'" line="133" column="58" />
-        <mark key="[" line="249" column="0" />
-        <mark key="]" line="266" column="6" />
+      <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/pages/status_page.dart" timestamp="1600579091268">
+        <mark key="'" line="181" column="64" />
+        <mark key="[" line="261" column="101" />
+        <mark key="]" line="261" column="101" />
+        <mark key="^" line="261" column="99" />
+        <mark key="." line="261" column="101" />
       </file>
       <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/ios/Runner/Info.plist" timestamp="1600048262551">
         <mark key="[" line="13" column="30" />
@@ -117,11 +122,11 @@
         <mark key="." line="76" column="52" />
         <mark key="^" line="76" column="53" />
       </file>
-      <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/storage.dart" timestamp="1600505942112">
-        <mark key="[" line="26" column="57" />
-        <mark key="]" line="26" column="59" />
-        <mark key="^" line="26" column="59" />
-        <mark key="." line="26" column="58" />
+      <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/storage.dart" timestamp="1600578371883">
+        <mark key="[" line="27" column="6" />
+        <mark key="]" line="27" column="13" />
+        <mark key="." line="27" column="12" />
+        <mark key="^" line="27" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/android/app/src/main/kotlin/com/primarybio/app/MainActivity.kt" timestamp="1600068571613">
         <mark key="[" line="4" column="39" />
@@ -143,6 +148,7 @@
       <jump line="42" column="18" filename="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/actions.dart" />
       <jump line="133" column="58" filename="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/pages/status_page.dart" />
       <jump line="211" column="32" filename="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/pages/add_appointment.dart" />
+      <jump line="181" column="64" filename="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/pages/status_page.dart" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -160,31 +166,31 @@
         <text encoding="base64">ICAgIHJldHVybiBTY2FmZm9sZCgKICAgICAgcmVzaXplVG9Bdm9pZEJvdHRvbVBhZGRpbmc6IHRydWUsCiAgICAgIGJvZHk6IENvbnRhaW5lcigKICAgICAgICBjb2xvcjogQ29sb3IoMHhmZkU1RTVFNSksCiAgICAgICAgY2hpbGQ6IFNhZmVBcmVhKAogICAgICAgICAgY2hpbGQ6IENvbHVtbigKICAgICAgICAgICAgbWFpbkF4aXNBbGlnbm1lbnQ6IE1haW5BeGlzQWxpZ25tZW50LnNwYWNlQmV0d2VlbiwKICAgICAgICAgICAgY2hpbGRyZW46IDxXaWRnZXQ+WwogICAgICAgICAgICAgIF9idWlsZEhlYWRlcihjb250ZXh0KSwKICAgICAgICAgICAgICB0ZXN0cy5sZW5ndGggPiAwCiAgICAgICAgICAgICAgICAgID8gX3Rlc3RzTGlzdChjb250ZXh0LCB0ZXN0R3JvdXAsIHRlc3RzKQogICAgICAgICAgICAgICAgICA6IF9idWlsZE5vVGVzdHMoY29udGV4dCksCiAgICAgICAgICAgICAgdGVzdHMubGVuZ3RoID4gMCA/IFNpemVkQm94KCkgOiBfYnVpbGRBY3Rpb25CdXR0b25zKGNvbnRleHQpLAogICAgICAgICAgICBdLAogICAgICAgICAgKSwKICAgICAgICApLAogICAgICApLAogICAgKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRocm93IEV4Y2VwdGlvbigiTm8gc2F2ZWQgY3JlZGVudGlhbHMgeWV0Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBzZXJpYWxpemVycy5zZXJpYWxpemVXaXRoKEFwcG9pbnRtZW50Q3JlZGVudGlhbC5zZXJpYWxpemVyLCB0aGlzKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gc2VyaWFsaXplcnMuZGVzZXJpYWxpemVXaXRoKEFwcG9pbnRtZW50Q3JlZGVudGlhbC5zZXJpYWxpemVyLCBjcmVkZW50aWFsSnNvbik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text>7D62C36E6F</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHNlcmlhbGl6ZXJzLmRlc2VyaWFsaXplKGpzb24uZGVjb2RlKGNyZWRlbnRpYWxKc29uKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFpbkF4aXNBbGlnbm1lbnQ6IE1haW5BeGlzQWxpZ25tZW50LnNwYWNlQmV0d2VlbiwK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hpbGRyZW46IDxXaWRnZXQ+WwogICAgICAgICAgICAgIF9idWlsZEhlYWRlcihjb250ZXh0KSwKICAgICAgICAgICAgICB0ZXN0cy5sZW5ndGggPiAwCiAgICAgICAgICAgICAgICAgID8gX3Rlc3RzTGlzdChjb250ZXh0LCB0ZXN0R3JvdXAsIHRlc3RzKQogICAgICAgICAgICAgICAgICA6IF9idWlsZE5vVGVzdHMoY29udGV4dCksCiAgICAgICAgICAgICAgdGVzdHMubGVuZ3RoID4gMCA/IFNpemVkQm94KCkgOiBfYnVpbGRBY3Rpb25CdXR0b25zKGNvbnRleHQpLAogICAgICAgICAgICBdLAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIEZ1dHVyZUJ1aWxkZXI8UmVzcG9uc2VXcmFwcGVyPExpc3Q8VGVzdD4+PigKICAgICAgZnV0dXJlOiBleGlzdGluZ1Jlc3VsdHMsCiAgICAgIGJ1aWxkZXI6IChjb250ZXh0LCBzbmFwc2hvdCkgewogICAgICAgIGlmIChzbmFwc2hvdC5oYXNEYXRhKSB7CiAgICAgICAgICByZXR1cm4gU3RhdHVzUGFnZSgpOwogICAgICAgIH0gZWxzZSBpZiAoc25hcHNob3QuaGFzRXJyb3IpIHsKICAgICAgICAgIHJldHVybiBTdGF0dXNQYWdlKCk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBDaXJjdWxhclByb2dyZXNzSW5kaWNhdG9yKCk7CiAgICAgIH0sCiAgICApOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBGdXR1cmUudmFsdWUoUmVzcG9uc2VXcmFwcGVyPExpc3Q8VGVzdD4+KG51bGwsIG51bGwpKTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaW50KGpzb24uZGVjb2RlKGNyZWRlbnRpYWxzSnNvbi5maXJzdCkpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHRocm93IEV4Y2VwdGlvbigiTm8gc2F2ZWQgY3JlZGVudGlhbHMgeWV0Iik7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text>7D62C36E6F</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gU3RhdHVzUGFnZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFpbkF4aXNBbGlnbm1lbnQ6IE1haW5BeGlzQWxpZ25tZW50LnNwYWNlQmV0d2VlbiwK</text>
       </register>
       <register name=":" type="4">
         <text>%s/covid pass/PrimaryBio/</text>

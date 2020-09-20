@@ -14,6 +14,8 @@
       <history-cmd>
         <entry>%s/covid pass/PrimaryBio/</entry>
         <entry>resize +2</entry>
+        <entry>resize -2</entry>
+        <entry>vertical resize -2</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -80,12 +82,12 @@
         <mark key="." line="7" column="3" />
         <mark key="^" line="7" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/pages/status_page.dart" timestamp="1600591659223">
+      <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/pages/status_page.dart" timestamp="1600593045179">
         <mark key="'" line="181" column="64" />
-        <mark key="[" line="259" column="48" />
-        <mark key="]" line="259" column="67" />
-        <mark key="^" line="259" column="67" />
-        <mark key="." line="259" column="66" />
+        <mark key="[" line="260" column="49" />
+        <mark key="]" line="260" column="59" />
+        <mark key="^" line="260" column="59" />
+        <mark key="." line="260" column="58" />
       </file>
       <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/ios/Runner/Info.plist" timestamp="1600048262551">
         <mark key="[" line="13" column="30" />
@@ -145,11 +147,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdMb2codGVzdEpzb24pOwo=</text>
+      <register name="&quot;" type="4">
+        <text>another</text>
       </register>
       <register name="-" type="4">
-        <text>print</text>
+        <text>another</text>
       </register>
       <register name="/" type="4">
         <text>covid pass</text>

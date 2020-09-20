@@ -82,12 +82,12 @@
         <mark key="." line="7" column="3" />
         <mark key="^" line="7" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/pages/status_page.dart" timestamp="1600593045179">
+      <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/lib/pages/status_page.dart" timestamp="1600594023517">
         <mark key="'" line="181" column="64" />
-        <mark key="[" line="260" column="49" />
-        <mark key="]" line="260" column="59" />
-        <mark key="^" line="260" column="59" />
-        <mark key="." line="260" column="58" />
+        <mark key="[" line="35" column="44" />
+        <mark key="]" line="35" column="46" />
+        <mark key="^" line="35" column="46" />
+        <mark key="." line="35" column="45" />
       </file>
       <file name="$USER_HOME$/workspace/primary-cz/biostatus_frontend/ios/Runner/Info.plist" timestamp="1600048262551">
         <mark key="[" line="13" column="30" />
@@ -148,10 +148,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>another</text>
+        <text>18</text>
       </register>
       <register name="-" type="4">
-        <text>another</text>
+        <text>18</text>
       </register>
       <register name="/" type="4">
         <text>covid pass</text>
